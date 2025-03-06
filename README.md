@@ -1,48 +1,48 @@
 # Analyse des Prix Immobiliers au Maroc
 
 ## Description
-Ce projet vise à analyser le marché immobilier marocain en utilisant des techniques de data science et de machine learning. Il inclut une interface interactive via **Streamlit**, permettant aux utilisateurs d'explorer les données, visualiser les tendances des prix et prédire la valeur des biens immobiliers.
+This project aims to analyze the Moroccan real estate market using data science and machine learning techniques. It includes an interactive interface via Streamlit, allowing users to explore the data, visualize price trends, and predict property values.
 
 ## Fonctionnalités
-- **Génération de données** : Simulation de données synthétiques avec des variations réalistes
-- **Analyse descriptive** : Exploration des données immobilières
-- **Visualisation interactive** : Prix par ville et type de bien
-- **Modélisation prédictive** : Prédiction du prix des biens immobiliers
-- **Dashboard interactif** : Interface utilisateur via Streamlit
+- ****Data Generation****: Simulation of synthetic data with realistic variations
+- ****Descriptive Analysis****: Exploration of real estate data
+- ****Interactive Visualization****: Price by city and property type
+- ****Predictive Modeling****: Prediction of property prices
+- ****Interactive Dashboard****: User interface via Streamlit
 
-## Technologies Utilisées
-- **Python**
-- **Pandas** : Manipulation de données
-- **Scikit-learn** : Modélisation et prédiction
-- **Matplotlib & Seaborn** : Visualisation des données
-- **Streamlit** : Dashboard interactif
+## ****Technologies Used****
+- ****Python****
+- ****Pandas****: Data manipulation
+- ****Scikit-learn****: Modeling and prediction
+- ****Matplotlib & Seaborn****: Data visualization
+- ****Streamlit****: Interactive dashboard
 
 ## Installation
 
-1. **Cloner le répertoire**
+1. **Clone the repository**
    ```bash
-   git clone https://github.com/votre-utilisateur/immobilier_analyser.git
+   git clone https://github.com/your-username/immobilier_analyser.git
    cd immobilier_analyser
    ```
 
-2. **Créer un environnement virtuel et l'activer**
+2. **Create a virtual environment and activate it**
    ```bash
    python -m venv immobilier_env
    source immobilier_env/bin/activate  # Pour macOS/Linux
    immobilier_env\Scripts\activate  # Pour Windows
    ```
 
-3. **Installer les dépendances**
+3. **Install dependencies**
    ```bash
    pip install -r requirements.txt
    ```
 
-4. **Lancer l'application Streamlit**
+4. **Run the Streamlit application**
    ```bash
    streamlit run main.py
    ```
 
-## Structure du Projet
+## Project Structure
 ```
 immobilier_analyser/
 │── data/                   # Dossiers contenant les données
@@ -55,7 +55,7 @@ immobilier_analyser/
 
 
 ## Licence
-Ce projet est sous licence MIT.
+This project is licensed under the MIT License.
 
 ## Preview 
 ![image](https://github.com/user-attachments/assets/a2ad1a51-8ded-4899-9294-11970fb4d155)
