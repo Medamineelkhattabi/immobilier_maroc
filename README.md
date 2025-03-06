@@ -57,5 +57,10 @@ immobilier_analyser/
 ## Licence
 Ce projet est sous licence MIT.
 
+## Preview 
+![image](https://github.com/user-attachments/assets/a2ad1a51-8ded-4899-9294-11970fb4d155)
+![image](https://github.com/user-attachments/assets/33b1a971-e6cc-424f-833b-b179331a5158)
+![image](https://github.com/user-attachments/assets/5e3337e5-650d-4eb5-aef4-abf6c8eb46cc)
+
 
 
