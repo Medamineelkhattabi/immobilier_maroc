@@ -1,0 +1,1001 @@
+ville,quartier,type_bien,etat,superficie,chambres,salles_bain,etage,age,ascenseur,parking,piscine,jardin,securite,prix,prix_m2,date_mise_en_vente
+Agadir,Sonaba,Villa,À rénover,357,4,2,0,12,False,False,True,True,False,2974442,8331,2024-12-18
+Fès,Route Immouzer,Villa,À rénover,332,3,2,0,12,False,True,True,True,True,2048748,6170,2024-11-21
+Fès,Médina,Appartement,Neuf,118,6,2,2,0,False,True,True,False,True,894617,7581,2024-10-06
+Meknès,Plaisance,Riad,Bon état,293,1,1,0,6,False,False,True,True,True,2321929,7924,2024-10-02
+Fès,Médina,Villa,Bon état,382,6,1,0,34,False,True,False,True,True,2363637,6187,2024-09-29
+Agadir,Founty,Terrain,En construction,1790,0,0,0,0,False,True,False,False,False,10858177,6066,2024-09-08
+Casablanca,CIL,Villa,Neuf,478,2,1,0,0,False,True,True,True,False,8049935,16840,2025-02-12
+Tanger,Centre Ville,Riad,En construction,377,4,3,0,0,False,True,True,True,True,3961666,10508,2024-09-13
+Casablanca,Bourgogne,Villa,En construction,202,6,2,0,0,False,True,True,True,True,1663451,8234,2025-01-05
+Marrakech,Palmeraie,Maison,À rénover,157,6,2,0,33,False,True,False,False,False,676444,4308,2025-01-06
+Casablanca,Gauthier,Villa,À rénover,179,1,1,0,25,False,True,True,True,True,1552728,8674,2025-01-11
+Oujda,Hay Essalam,Villa,Bon état,150,3,3,0,15,True,True,True,True,True,1073856,7159,2024-11-21
+Fès,Route Immouzer,Terrain,Bon état,500,0,0,0,36,False,True,False,False,False,1948869,3897,2024-11-01
+Tanger,Boukhalef,Villa,En construction,316,1,1,0,0,False,True,True,True,False,2772509,8773,2024-10-28
+Agadir,Sonaba,Terrain,En construction,1025,0,0,0,0,False,True,False,False,True,5348085,5217,2025-02-17
+Fès,Route Immouzer,Villa,En construction,253,3,2,0,0,False,True,True,True,True,2217656,8765,2024-09-29
+Agadir,Centre,Villa,Neuf,481,6,3,0,0,False,False,True,True,True,5808895,12076,2024-10-14
+Meknès,Hamria,Terrain,En construction,990,0,0,0,0,False,False,False,False,True,3564438,3600,2025-01-04
+Casablanca,Racine,Riad,À rénover,349,5,3,0,48,False,True,True,False,True,1293077,3705,2025-01-03
+Agadir,Sonaba,Villa,À rénover,381,3,2,0,35,False,True,True,True,True,1123686,2949,2024-09-09
+Fès,Atlas,Maison,À rénover,262,6,2,0,38,False,True,False,True,True,742114,2832,2024-09-29
+Casablanca,Maarif,Terrain,À rénover,1029,0,0,0,44,False,True,False,False,True,4117577,4001,2025-01-12
+Meknès,Marjane,Maison,Neuf,246,2,2,0,0,False,True,False,True,True,1983681,8063,2024-12-04
+Casablanca,Bourgogne,Villa,Bon état,477,2,2,0,23,False,False,True,True,False,2705330,5671,2024-09-30
+Agadir,Talborjt,Riad,En construction,392,2,2,0,0,False,True,True,False,True,4951783,12632,2024-10-24
+Rabat,Hassan,Villa,En construction,369,3,3,0,0,False,True,True,False,True,3932833,10658,2024-12-19
+Tanger,Cap Spartel,Terrain,Neuf,1982,0,0,0,0,False,False,False,False,True,21483886,10839,2024-10-09
+Oujda,Angad,Riad,Neuf,338,3,3,0,0,False,False,False,True,False,2750103,8136,2025-02-17
+Tanger,Centre Ville,Terrain,En construction,1285,0,0,0,0,False,True,False,False,True,7914401,6159,2024-12-19
+Rabat,Les Orangers,Local commercial,Neuf,442,0,0,0,0,False,True,False,False,False,6480076,14660,2025-01-27
+Casablanca,Racine,Local commercial,À rénover,147,0,0,0,40,False,True,False,False,False,1070347,7281,2025-01-17
+Meknès,Centre Ville,Villa,Bon état,409,2,1,0,27,False,True,True,True,True,1643682,4018,2024-10-21
+Tanger,Cap Spartel,Terrain,Neuf,1574,0,0,0,0,False,True,False,False,False,11091642,7046,2025-03-03
+Rabat,Les Orangers,Local commercial,En construction,448,0,0,0,0,False,False,False,False,False,4348430,9706,2025-02-28
+Casablanca,Anfa,Appartement,En construction,160,4,2,2,0,False,False,False,False,True,1420864,8880,2024-10-31
+Fès,Atlas,Villa,Neuf,295,6,4,0,0,False,True,True,True,True,2907965,9857,2025-01-08
+Oujda,Hay Essalam,Local commercial,En construction,429,0,0,0,0,False,False,False,False,True,3247824,7570,2024-12-02
+Rabat,Souissi,Terrain,Bon état,1521,0,0,0,37,False,True,False,False,False,11574670,7609,2024-09-10
+Casablanca,Maarif,Riad,Neuf,214,4,1,0,0,False,False,True,True,True,3924076,18336,2025-01-23
+Meknès,Hamria,Local commercial,En construction,494,0,0,0,0,False,False,False,False,False,3624295,7336,2024-12-15
+Rabat,Souissi,Appartement,À rénover,198,4,3,5,32,False,True,False,False,True,1101716,5564,2024-09-30
+Agadir,Founty,Villa,Bon état,176,2,2,0,9,False,True,True,True,False,1440184,8182,2025-02-02
+Casablanca,Maarif,Villa,Neuf,323,4,3,0,0,False,False,False,True,True,5012718,15519,2025-01-09
+Rabat,Hassan,Terrain,Bon état,1448,0,0,0,31,False,False,False,False,False,8158382,5634,2025-02-18
+Agadir,Centre,Villa,À rénover,492,6,2,0,47,False,False,True,False,True,2105910,4280,2024-11-30
+Marrakech,Gueliz,Villa,En construction,298,6,1,0,0,False,True,True,True,False,3021135,10138,2025-02-05
+Oujda,Hay Essalam,Terrain,En construction,706,0,0,0,0,False,False,False,False,False,3633818,5147,2025-01-03
+Marrakech,Médina,Appartement,Neuf,162,4,2,4,0,True,True,False,False,True,2842839,17548,2024-11-18
+Oujda,Hay El Qods,Villa,Neuf,194,4,4,0,0,False,False,False,True,False,1839818,9483,2024-11-20
+Agadir,Founty,Villa,En construction,496,5,3,0,0,False,True,True,True,True,3409567,6874,2024-10-16
+Agadir,Centre,Terrain,Neuf,643,0,0,0,0,False,False,False,False,True,3954778,6150,2025-02-05
+Rabat,Hay Riad,Terrain,À rénover,612,0,0,0,27,False,False,False,False,False,2258615,3690,2025-02-23
+Fès,Atlas,Appartement,En construction,42,1,1,6,0,True,True,False,False,True,289139,6884,2025-02-20
+Fès,Ville Nouvelle,Riad,Bon état,268,6,1,0,37,False,True,True,True,False,2016410,7523,2024-10-01
+Meknès,Hamria,Appartement,À rénover,152,2,2,14,22,False,True,False,False,False,514090,3382,2025-01-27
+Meknès,Centre Ville,Riad,En construction,260,6,2,0,0,False,True,True,False,True,1904601,7325,2024-09-13
+Marrakech,Amerchich,Terrain,À rénover,1179,0,0,0,28,False,True,False,False,True,5164458,4380,2024-10-28
+Rabat,Agdal,Terrain,En construction,1118,0,0,0,0,False,True,False,False,True,8127117,7269,2024-09-28
+Meknès,Marjane,Terrain,Neuf,886,0,0,0,0,False,True,False,False,False,5812611,6560,2025-02-25
+Agadir,Sonaba,Appartement,Neuf,69,1,1,8,0,False,True,False,False,True,719121,10422,2025-02-19
+Marrakech,Amerchich,Maison,À rénover,166,2,2,0,20,False,True,False,True,True,1013788,6107,2024-10-11
+Fès,Médina,Riad,Bon état,221,1,1,0,7,False,True,True,True,False,1762525,7975,2024-09-08
+Tanger,Boukhalef,Villa,Neuf,309,2,2,0,0,True,False,False,True,True,4841548,15668,2024-11-21
+Fès,Médina,Appartement,À rénover,173,5,3,7,17,True,False,False,True,True,727656,4206,2024-10-10
+Marrakech,Gueliz,Villa,En construction,438,5,2,0,0,False,True,True,True,False,7617303,17391,2025-01-22
+Meknès,Hamria,Riad,Bon état,143,1,1,0,38,False,True,True,True,False,473582,3311,2024-11-11
+Casablanca,Maarif,Villa,En construction,289,6,3,0,0,False,True,True,True,False,4924564,17040,2025-01-24
+Tanger,Centre Ville,Riad,À rénover,177,4,4,0,7,False,True,True,True,True,1014121,5729,2024-09-21
+Rabat,Hassan,Appartement,À rénover,104,2,1,1,27,False,True,False,False,True,410819,3950,2025-02-22
+Agadir,Sonaba,Local commercial,À rénover,199,0,0,0,17,False,False,False,False,True,851440,4278,2025-03-03
+Agadir,Talborjt,Terrain,Bon état,527,0,0,0,35,False,True,False,False,True,2346771,4453,2024-12-11
+Marrakech,Gueliz,Riad,Bon état,237,3,3,0,16,False,True,True,True,True,1146883,4839,2024-09-16
+Oujda,Hay El Qods,Maison,Neuf,242,3,2,0,0,False,True,False,True,False,2274744,9399,2024-10-11
+Marrakech,Amerchich,Terrain,À rénover,645,0,0,0,28,False,True,False,False,True,1578195,2446,2024-11-10
+Tanger,Centre Ville,Terrain,En construction,1604,0,0,0,0,False,False,False,False,True,8047213,5016,2024-10-01
+Meknès,Plaisance,Terrain,Neuf,583,0,0,0,0,False,True,False,False,False,3785545,6493,2025-01-19
+Rabat,Souissi,Appartement,En construction,149,6,3,5,0,False,False,False,False,False,1385970,9301,2025-03-03
+Casablanca,Anfa,Terrain,Bon état,353,0,0,0,35,False,True,False,False,True,2097770,5942,2024-10-17
+Meknès,Plaisance,Riad,Bon état,287,2,2,0,15,False,True,True,True,True,1168508,4071,2024-09-16
+Casablanca,Gauthier,Riad,En construction,174,5,3,0,0,False,True,True,True,True,2200515,12646,2025-02-21
+Tanger,Cap Spartel,Maison,Bon état,179,3,2,0,19,False,True,False,True,False,904084,5050,2024-10-26
+Agadir,Centre,Local commercial,Neuf,50,0,0,0,0,False,False,False,False,True,519737,10394,2024-09-14
+Meknès,Hamria,Riad,En construction,348,4,2,0,0,False,True,False,True,True,2646312,7604,2024-10-19
+Casablanca,Bourgogne,Appartement,Neuf,151,4,1,10,0,False,False,False,False,True,2948608,19527,2025-01-04
+Marrakech,Hivernage,Terrain,À rénover,825,0,0,0,47,False,False,False,False,False,2520977,3055,2024-11-23
+Casablanca,Racine,Maison,À rénover,298,3,3,0,12,False,False,False,True,True,2879469,9662,2024-10-01
+Fès,Route Immouzer,Riad,Bon état,143,6,1,0,28,False,True,True,True,True,779159,5448,2025-02-22
+Oujda,Angad,Terrain,À rénover,885,0,0,0,37,False,False,False,False,True,1142504,1290,2024-09-18
+Tanger,Malabata,Terrain,Neuf,349,0,0,0,0,False,False,False,False,False,3047254,8731,2025-01-19
+Fès,Atlas,Appartement,À rénover,172,5,2,14,11,True,False,False,False,False,851388,4949,2024-12-31
+Casablanca,CIL,Appartement,Bon état,91,5,4,9,18,True,True,False,False,True,1150949,12647,2024-09-27
+Tanger,Boukhalef,Villa,Bon état,282,1,1,0,36,False,False,True,True,True,2279697,8084,2025-01-05
+Oujda,Angad,Villa,À rénover,204,1,1,0,48,True,False,False,True,True,566749,2778,2024-09-20
+Meknès,Centre Ville,Local commercial,Neuf,349,0,0,0,0,False,True,False,False,False,2266057,6493,2024-10-20
+Oujda,Centre Ville,Maison,Neuf,186,6,1,0,0,False,True,False,False,True,1262044,6785,2024-10-16
+Tanger,Malabata,Villa,En construction,418,6,1,0,0,False,False,False,True,True,4445582,10635,2025-01-21
+Oujda,Angad,Terrain,Bon état,1951,0,0,0,13,False,False,False,False,False,9454965,4846,2024-11-17
+Oujda,Centre Ville,Appartement,Bon état,169,2,1,9,37,True,True,False,True,True,846077,5006,2024-12-28
+Oujda,Hay El Qods,Terrain,À rénover,903,0,0,0,6,False,False,False,False,True,1841277,2039,2025-01-03
+Agadir,Talborjt,Terrain,À rénover,571,0,0,0,13,False,False,False,False,True,1706355,2988,2024-12-25
+Fès,Route Immouzer,Appartement,À rénover,51,2,2,14,48,False,False,False,False,True,75127,1473,2024-11-23
+Oujda,Centre Ville,Appartement,En construction,48,3,3,1,0,False,True,True,False,True,240697,5014,2024-09-23
+Marrakech,Palmeraie,Maison,Bon état,277,2,2,0,32,False,True,False,False,True,1482814,5353,2024-09-09
+Meknès,Hamria,Maison,En construction,98,2,2,0,0,False,True,False,False,True,458407,4677,2024-10-16
+Tanger,Centre Ville,Maison,Bon état,167,6,3,0,7,False,True,False,True,True,1352039,8096,2025-02-10
+Rabat,Agdal,Maison,Neuf,92,2,2,0,0,False,True,False,True,True,1307399,14210,2024-12-28
+Marrakech,Hivernage,Riad,Bon état,177,2,2,0,39,False,True,False,False,False,1484353,8386,2024-12-27
+Agadir,Sonaba,Appartement,Neuf,50,2,2,11,0,False,True,False,False,True,628344,12566,2025-01-22
+Marrakech,Palmeraie,Terrain,Bon état,1054,0,0,0,35,False,False,False,False,True,4308467,4087,2024-10-28
+Meknès,Plaisance,Local commercial,À rénover,247,0,0,0,7,False,False,False,False,True,1574903,6376,2024-09-20
+Rabat,Hassan,Appartement,En construction,118,1,1,11,0,True,False,False,False,True,1380667,11700,2025-02-14
+Rabat,Souissi,Riad,À rénover,391,1,1,0,29,False,True,True,True,False,1904465,4870,2024-12-30
+Meknès,Marjane,Riad,En construction,252,6,2,0,0,False,True,True,True,False,1960096,7778,2024-09-21
+Marrakech,Gueliz,Local commercial,Bon état,217,0,0,0,25,False,True,False,False,False,1034552,4767,2024-12-05
+Rabat,Hay Riad,Villa,Neuf,236,1,1,0,0,False,False,False,True,False,2832788,12003,2025-02-11
+Rabat,Souissi,Local commercial,En construction,261,0,0,0,0,False,False,False,False,True,3625543,13890,2024-12-24
+Fès,Atlas,Appartement,À rénover,143,1,1,10,30,True,False,False,False,True,424990,2971,2025-01-24
+Fès,Ville Nouvelle,Maison,Neuf,261,3,2,0,0,False,False,False,True,True,2693063,10318,2025-01-12
+Marrakech,Amerchich,Local commercial,À rénover,295,0,0,0,44,False,True,False,False,False,2237625,7585,2024-09-24
+Meknès,Hamria,Appartement,Neuf,92,5,1,6,0,False,False,False,False,False,684898,7444,2024-11-08
+Tanger,Boukhalef,Terrain,À rénover,532,0,0,0,35,False,False,False,False,True,1518985,2855,2024-11-14
+Oujda,Hay Essalam,Local commercial,À rénover,70,0,0,0,37,False,True,False,False,False,224096,3201,2025-01-28
+Meknès,Marjane,Terrain,Bon état,1527,0,0,0,31,False,True,False,False,True,5704429,3735,2024-09-30
+Agadir,Centre,Appartement,À rénover,166,6,4,4,46,True,True,False,False,False,493774,2974,2025-02-02
+Meknès,Marjane,Local commercial,À rénover,471,0,0,0,46,False,True,False,False,True,956421,2030,2024-10-03
+Marrakech,Palmeraie,Local commercial,À rénover,145,0,0,0,34,False,False,False,False,True,1150321,7933,2024-09-26
+Meknès,Hamria,Riad,Bon état,129,4,3,0,26,False,True,True,True,True,588076,4558,2024-11-20
+Marrakech,Amerchich,Riad,En construction,139,2,2,0,0,False,True,True,True,True,2524514,18161,2025-02-15
+Marrakech,Palmeraie,Appartement,À rénover,82,6,3,6,9,True,True,False,False,True,514277,6271,2024-09-20
+Casablanca,Racine,Terrain,À rénover,1350,0,0,0,38,False,False,False,False,True,6848739,5073,2024-10-30
+Fès,Atlas,Terrain,Neuf,1026,0,0,0,0,False,True,False,False,False,10057320,9802,2024-11-12
+Marrakech,Gueliz,Maison,À rénover,258,6,2,0,38,False,True,False,True,False,861217,3338,2025-01-12
+Meknès,Marjane,Appartement,Neuf,106,5,2,10,0,True,True,False,False,False,796498,7514,2024-10-18
+Casablanca,Ain Diab,Appartement,Neuf,94,6,1,5,0,False,True,True,False,True,1258666,13390,2024-12-14
+Tanger,Boukhalef,Riad,Bon état,180,3,2,0,39,True,False,False,True,True,1193922,6632,2024-09-22
+Rabat,Hay Riad,Local commercial,En construction,328,0,0,0,0,False,False,False,False,True,3985624,12151,2025-01-08
+Meknès,Hamria,Villa,Bon état,300,4,1,0,24,False,True,True,True,True,1939405,6464,2024-10-21
+Meknès,Centre Ville,Local commercial,À rénover,157,0,0,0,1,False,False,False,False,False,1036876,6604,2025-01-29
+Meknès,Plaisance,Local commercial,En construction,386,0,0,0,0,False,False,False,False,True,3513991,9103,2024-09-19
+Casablanca,Anfa,Local commercial,En construction,153,0,0,0,0,False,True,False,False,True,2564522,16761,2025-01-24
+Agadir,Founty,Maison,À rénover,230,5,2,0,32,False,False,False,True,True,829076,3604,2025-01-29
+Tanger,Boukhalef,Maison,Bon état,90,4,1,0,36,False,True,False,True,False,636216,7069,2025-02-12
+Agadir,Centre,Appartement,À rénover,118,3,1,10,22,False,True,False,False,True,599085,5076,2024-09-22
+Marrakech,Palmeraie,Maison,À rénover,270,1,1,0,30,False,False,False,True,True,1080158,4000,2024-10-27
+Oujda,Hay El Qods,Terrain,Neuf,1774,0,0,0,0,False,True,False,False,True,11796895,6649,2024-10-25
+Casablanca,Bourgogne,Terrain,Bon état,419,0,0,0,41,False,True,False,False,False,1995706,4763,2025-02-28
+Casablanca,Ain Diab,Local commercial,À rénover,478,0,0,0,18,False,False,False,False,False,3890359,8138,2025-02-10
+Fès,Route Immouzer,Terrain,Bon état,1782,0,0,0,24,False,True,False,False,False,8231487,4619,2024-10-08
+Marrakech,Gueliz,Local commercial,En construction,379,0,0,0,0,False,False,False,False,True,4681448,12352,2025-02-02
+Tanger,Cap Spartel,Terrain,En construction,954,0,0,0,0,False,False,False,False,True,5918835,6204,2025-01-13
+Oujda,Hay Essalam,Local commercial,Neuf,368,0,0,0,0,False,True,False,False,True,2031793,5521,2024-11-15
+Oujda,Angad,Appartement,Bon état,103,5,3,10,5,True,False,True,False,False,591839,5746,2024-12-12
+Meknès,Centre Ville,Riad,Bon état,389,6,2,0,11,False,False,True,True,True,2937784,7552,2024-12-04
+Fès,Atlas,Appartement,En construction,130,1,1,14,0,True,True,False,False,True,1003285,7717,2025-03-02
+Tanger,Centre Ville,Terrain,En construction,1596,0,0,0,0,False,True,False,False,True,9526045,5968,2025-01-19
+Marrakech,Gueliz,Villa,Bon état,447,3,3,0,33,False,False,True,True,True,4155181,9295,2024-11-04
+Oujda,Centre Ville,Riad,À rénover,196,3,3,0,6,False,True,True,True,False,654684,3340,2024-12-05
+Fès,Médina,Local commercial,Bon état,221,0,0,0,15,False,False,False,False,True,1620107,7330,2024-10-31
+Casablanca,Gauthier,Terrain,En construction,1695,0,0,0,0,False,True,False,False,True,7696687,4540,2024-11-16
+Tanger,Cap Spartel,Terrain,Bon état,239,0,0,0,5,False,True,False,False,True,1278162,5347,2024-11-07
+Agadir,Talborjt,Maison,À rénover,293,4,4,0,38,False,False,False,True,True,1160376,3960,2025-01-01
+Marrakech,Hivernage,Villa,À rénover,498,6,1,0,4,False,True,True,True,False,3690084,7409,2024-11-14
+Fès,Médina,Terrain,À rénover,1263,0,0,0,43,False,True,False,False,True,3339299,2643,2025-03-06
+Agadir,Centre,Villa,Neuf,405,2,2,0,0,False,True,True,True,False,4625679,11421,2024-09-20
+Tanger,Centre Ville,Maison,En construction,272,3,2,0,0,False,True,False,True,True,2935615,10792,2024-09-17
+Oujda,Centre Ville,Appartement,Bon état,141,2,2,8,11,False,True,False,False,False,944533,6698,2024-11-16
+Fès,Médina,Villa,Bon état,273,3,3,0,28,False,False,True,True,True,2321973,8505,2024-09-14
+Fès,Atlas,Terrain,À rénover,1307,0,0,0,48,False,False,False,False,True,3165519,2421,2024-10-26
+Agadir,Centre,Terrain,Neuf,1183,0,0,0,0,False,True,False,False,False,8580443,7253,2025-01-27
+Agadir,Sonaba,Riad,Bon état,381,6,3,0,6,False,False,True,True,True,3004619,7886,2025-02-12
+Marrakech,Palmeraie,Riad,Bon état,257,4,4,0,16,False,True,False,True,True,3463394,13476,2024-12-14
+Tanger,Centre Ville,Local commercial,Neuf,328,0,0,0,0,False,True,False,False,True,3876314,11818,2025-01-31
+Meknès,Centre Ville,Maison,À rénover,178,6,1,0,49,True,True,False,False,True,711015,3994,2024-11-04
+Fès,Route Immouzer,Maison,En construction,238,4,1,0,0,False,True,False,False,True,1621736,6814,2025-01-13
+Rabat,Agdal,Riad,En construction,281,5,4,0,0,False,True,True,True,True,3651973,12996,2025-01-09
+Fès,Atlas,Local commercial,À rénover,208,0,0,0,11,False,True,False,False,True,906024,4355,2024-09-20
+Marrakech,Hivernage,Riad,À rénover,323,6,4,0,2,False,True,False,True,True,3265172,10108,2024-11-13
+Agadir,Talborjt,Appartement,Neuf,157,3,1,14,0,True,True,False,False,True,1622522,10334,2024-10-22
+Oujda,Angad,Local commercial,En construction,198,0,0,0,0,False,False,False,False,False,1621244,8188,2024-12-10
+Tanger,Malabata,Villa,Neuf,453,4,4,0,0,False,True,True,True,True,5355917,11823,2025-02-04
+Rabat,Hassan,Maison,En construction,89,3,2,0,0,False,False,False,False,True,797082,8955,2025-01-16
+Fès,Route Immouzer,Appartement,À rénover,165,6,3,6,6,True,False,False,False,True,708143,4291,2025-02-24
+Oujda,Centre Ville,Appartement,En construction,119,1,1,1,0,False,False,False,False,False,841382,7070,2024-12-14
+Agadir,Centre,Appartement,Neuf,183,3,3,2,0,False,True,False,False,True,1700693,9293,2024-12-28
+Rabat,Hassan,Appartement,Neuf,144,4,1,2,0,False,True,False,False,False,1787920,12416,2024-09-20
+Rabat,Souissi,Terrain,Neuf,328,0,0,0,0,False,True,False,False,True,3165104,9649,2025-01-14
+Oujda,Hay Essalam,Maison,En construction,166,5,2,0,0,False,False,False,True,False,1341607,8081,2025-01-17
+Oujda,Hay Essalam,Villa,En construction,187,4,3,0,0,False,True,False,True,True,1092267,5841,2024-12-24
+Fès,Ville Nouvelle,Terrain,À rénover,1063,0,0,0,41,False,True,False,False,True,1934180,1819,2025-02-24
+Casablanca,Anfa,Terrain,À rénover,239,0,0,0,8,False,True,False,False,True,1694839,7091,2024-09-09
+Rabat,Les Orangers,Riad,À rénover,377,2,2,0,44,False,False,True,True,False,1368009,3628,2025-02-21
+Marrakech,Amerchich,Riad,Neuf,347,5,3,0,0,False,False,True,True,True,2667474,7687,2024-12-04
+Tanger,Malabata,Appartement,En construction,173,2,2,4,0,True,False,False,False,True,1743454,10077,2025-02-11
+Agadir,Talborjt,Appartement,À rénover,80,1,1,8,48,False,True,False,False,True,197809,2472,2024-09-18
+Marrakech,Hivernage,Maison,Bon état,159,5,4,0,18,False,False,False,True,True,1453483,9141,2025-01-07
+Oujda,Hay El Qods,Villa,À rénover,425,4,3,0,10,False,True,True,True,False,1923393,4525,2025-02-20
+Agadir,Centre,Terrain,À rénover,280,0,0,0,18,False,True,False,False,True,1273975,4549,2024-09-23
+Oujda,Centre Ville,Terrain,En construction,1069,0,0,0,0,False,False,False,False,False,5961071,5576,2025-01-30
+Rabat,Hassan,Maison,En construction,219,2,2,0,0,False,False,False,True,True,2458581,11226,2025-01-18
+Tanger,Cap Spartel,Appartement,À rénover,193,5,2,13,6,True,True,False,False,False,1112837,5765,2024-12-05
+Meknès,Centre Ville,Terrain,Neuf,820,0,0,0,0,False,False,False,False,True,4979077,6072,2024-11-23
+Marrakech,Palmeraie,Local commercial,À rénover,469,0,0,0,18,False,True,False,False,False,3915679,8348,2024-10-14
+Casablanca,Maarif,Maison,Neuf,195,6,2,0,0,False,True,True,True,False,1868335,9581,2024-10-04
+Tanger,Cap Spartel,Local commercial,Neuf,175,0,0,0,0,False,False,False,False,True,2729382,15596,2024-09-18
+Tanger,Boukhalef,Villa,À rénover,418,3,2,0,36,False,True,True,False,True,1823406,4362,2024-12-16
+Oujda,Angad,Local commercial,À rénover,353,0,0,0,35,False,True,False,False,True,999931,2832,2024-12-22
+Agadir,Founty,Local commercial,À rénover,366,0,0,0,8,False,True,False,False,True,1765820,4824,2025-02-13
+Rabat,Hassan,Villa,Neuf,169,5,4,0,0,False,True,True,True,True,2518925,14904,2025-01-06
+Tanger,Cap Spartel,Riad,À rénover,192,4,1,0,34,False,True,True,True,True,1364847,7108,2025-01-15
+Fès,Atlas,Local commercial,Neuf,485,0,0,0,0,False,True,False,False,True,6336283,13064,2025-02-08
+Tanger,Centre Ville,Riad,En construction,314,2,1,0,0,False,True,False,False,False,3367406,10724,2024-11-01
+Fès,Médina,Terrain,À rénover,777,0,0,0,12,False,True,False,False,False,2471340,3180,2024-10-10
+Meknès,Hamria,Appartement,En construction,50,3,2,2,0,False,True,True,True,True,270909,5418,2024-12-03
+Oujda,Hay Essalam,Villa,En construction,447,3,3,0,0,False,True,True,True,False,2661374,5953,2024-10-12
+Marrakech,Gueliz,Villa,Neuf,357,3,3,0,0,True,False,True,True,True,4354296,12196,2024-11-23
+Meknès,Hamria,Villa,Neuf,475,4,3,0,0,False,False,True,True,False,5463024,11501,2024-12-04
+Meknès,Centre Ville,Terrain,À rénover,1257,0,0,0,30,False,False,False,False,True,2561670,2037,2024-12-16
+Agadir,Sonaba,Terrain,Neuf,668,0,0,0,0,False,True,False,False,True,4829521,7229,2025-01-16
+Meknès,Centre Ville,Local commercial,En construction,441,0,0,0,0,False,True,False,False,False,3402993,7716,2024-10-03
+Agadir,Founty,Local commercial,En construction,241,0,0,0,0,False,True,False,False,True,1675500,6952,2024-12-01
+Casablanca,Bourgogne,Villa,Neuf,306,6,2,0,0,False,False,True,False,False,6774859,22140,2024-10-24
+Oujda,Hay Essalam,Villa,Bon état,397,2,2,0,19,False,False,True,True,True,3098894,7805,2024-12-15
+Meknès,Hamria,Riad,En construction,325,1,1,0,0,False,True,True,True,True,1951348,6004,2025-01-30
+Casablanca,Ain Diab,Villa,Neuf,440,6,1,0,0,False,False,True,True,True,9307195,21152,2025-01-12
+Agadir,Talborjt,Villa,À rénover,359,6,2,0,25,False,True,True,True,True,1160820,3233,2024-09-11
+Agadir,Talborjt,Riad,À rénover,154,6,3,0,28,False,True,True,False,True,802634,5211,2025-01-13
+Oujda,Hay El Qods,Local commercial,Bon état,282,0,0,0,20,False,True,False,False,True,1342587,4760,2025-01-05
+Oujda,Hay Essalam,Terrain,Bon état,1027,0,0,0,19,False,True,False,False,True,4267089,4154,2024-11-06
+Fès,Ville Nouvelle,Local commercial,À rénover,122,0,0,0,33,False,True,False,False,True,521908,4277,2024-11-23
+Marrakech,Hivernage,Terrain,Bon état,1778,0,0,0,41,False,False,False,False,True,7368511,4144,2024-12-27
+Tanger,Centre Ville,Local commercial,À rénover,301,0,0,0,33,False,True,False,False,False,1506884,5006,2025-01-21
+Casablanca,Bourgogne,Terrain,Neuf,258,0,0,0,0,False,True,False,False,False,2455627,9517,2024-11-09
+Oujda,Centre Ville,Terrain,Neuf,1253,0,0,0,0,False,False,False,False,False,8095373,6460,2025-02-23
+Marrakech,Hivernage,Local commercial,À rénover,352,0,0,0,9,False,True,False,False,True,1214942,3451,2024-09-20
+Meknès,Plaisance,Appartement,Neuf,104,2,2,5,0,False,True,True,False,False,1009766,9709,2025-01-02
+Meknès,Centre Ville,Terrain,À rénover,1230,0,0,0,2,False,True,False,False,True,5726104,4655,2025-01-05
+Agadir,Centre,Villa,En construction,161,4,4,0,0,False,True,True,True,True,1706050,10596,2024-10-11
+Marrakech,Hivernage,Villa,À rénover,382,5,2,0,46,False,True,False,True,True,1580838,4138,2025-02-28
+Meknès,Marjane,Riad,À rénover,128,1,1,0,36,False,True,True,True,False,379907,2968,2025-02-05
+Marrakech,Hivernage,Maison,À rénover,239,6,3,0,12,False,True,False,True,True,1394590,5835,2024-10-09
+Marrakech,Gueliz,Local commercial,Neuf,385,0,0,0,0,False,True,False,False,False,1898424,4930,2024-10-07
+Meknès,Marjane,Maison,Neuf,257,4,2,0,0,False,True,False,True,True,3249371,12643,2024-10-14
+Fès,Médina,Local commercial,À rénover,304,0,0,0,7,False,False,False,False,True,1927673,6341,2024-12-22
+Marrakech,Médina,Appartement,Bon état,76,1,1,12,26,True,True,False,False,False,602082,7922,2025-03-01
+Tanger,Centre Ville,Appartement,Neuf,50,4,1,4,0,False,True,False,False,False,323726,6474,2024-09-08
+Oujda,Hay Essalam,Maison,À rénover,179,1,1,0,48,False,True,False,True,False,260087,1453,2025-02-21
+Rabat,Hay Riad,Villa,Neuf,181,6,3,0,0,False,True,True,True,False,2866486,15836,2024-12-14
+Meknès,Plaisance,Maison,Neuf,288,6,3,0,0,False,True,False,True,False,2200115,7639,2024-10-08
+Oujda,Hay El Qods,Appartement,Neuf,145,1,1,5,0,True,True,True,False,True,1053709,7266,2025-03-03
+Agadir,Talborjt,Riad,Neuf,243,2,2,0,0,False,True,True,True,True,2823280,11618,2025-02-16
+Fès,Ville Nouvelle,Appartement,Neuf,183,5,1,5,0,False,True,False,False,False,1562954,8540,2024-10-31
+Casablanca,Racine,Local commercial,En construction,422,0,0,0,0,False,True,False,False,True,7618484,18053,2024-10-25
+Oujda,Hay Essalam,Appartement,Bon état,103,4,4,4,13,False,True,False,False,False,748641,7268,2024-09-09
+Rabat,Hassan,Villa,Bon état,268,6,1,0,16,False,True,True,True,True,3215106,11996,2024-10-18
+Fès,Atlas,Appartement,Neuf,188,4,1,6,0,True,False,False,False,False,1753855,9329,2024-10-19
+Meknès,Marjane,Appartement,Neuf,199,1,1,12,0,True,False,False,False,False,1664336,8363,2024-11-27
+Agadir,Founty,Riad,À rénover,206,6,2,0,45,False,True,True,True,False,927454,4502,2024-11-24
+Fès,Route Immouzer,Riad,Neuf,369,5,1,0,0,False,True,True,True,True,3738865,10132,2024-10-06
+Marrakech,Médina,Maison,Bon état,294,1,1,0,31,False,True,False,True,True,3442269,11708,2024-11-23
+Agadir,Sonaba,Riad,À rénover,228,4,2,0,5,False,True,True,True,True,1142600,5011,2024-10-04
+Tanger,Malabata,Maison,À rénover,142,6,3,0,12,False,True,False,True,True,835020,5880,2024-11-17
+Rabat,Hay Riad,Local commercial,À rénover,49,0,0,0,29,False,True,False,False,False,174798,3567,2024-09-08
+Agadir,Founty,Local commercial,À rénover,184,0,0,0,2,False,False,False,False,False,1468010,7978,2024-10-10
+Casablanca,CIL,Appartement,En construction,179,5,1,0,0,False,True,False,False,True,2180362,12180,2024-11-19
+Rabat,Hassan,Terrain,En construction,476,0,0,0,0,False,False,False,False,False,2785119,5851,2025-01-25
+Oujda,Hay El Qods,Maison,À rénover,83,3,3,0,32,False,True,False,True,True,251201,3026,2024-12-13
+Fès,Route Immouzer,Terrain,Neuf,790,0,0,0,0,False,True,False,False,True,6731087,8520,2025-02-02
+Oujda,Hay Essalam,Terrain,Bon état,1250,0,0,0,19,False,True,False,False,False,5112218,4089,2024-11-10
+Rabat,Agdal,Villa,Neuf,390,3,2,0,0,False,False,True,True,False,5585199,14321,2024-10-20
+Rabat,Hay Riad,Terrain,Neuf,1640,0,0,0,0,False,False,False,False,False,18345450,11186,2024-10-12
+Tanger,Centre Ville,Terrain,En construction,1495,0,0,0,0,False,False,False,False,False,8486865,5676,2025-01-08
+Fès,Médina,Maison,En construction,194,3,3,0,0,False,True,False,True,False,1308096,6742,2024-11-22
+Rabat,Hay Riad,Terrain,Neuf,1023,0,0,0,0,False,False,False,False,True,11760000,11495,2024-09-13
+Fès,Ville Nouvelle,Maison,En construction,269,3,1,0,0,False,True,False,True,True,2094199,7785,2024-09-21
+Agadir,Sonaba,Local commercial,En construction,317,0,0,0,0,False,True,False,False,True,2536325,8001,2024-11-07
+Rabat,Les Orangers,Maison,À rénover,110,2,1,0,24,False,True,False,True,True,731754,6652,2025-02-13
+Fès,Ville Nouvelle,Riad,Bon état,238,3,3,0,5,False,True,True,False,True,2361000,9920,2025-01-22
+Rabat,Hay Riad,Maison,À rénover,105,2,2,0,40,False,True,False,False,True,390212,3716,2024-12-19
+Tanger,Malabata,Appartement,Bon état,179,6,3,3,3,True,True,False,False,True,1339821,7485,2024-12-27
+Tanger,Malabata,Riad,Neuf,240,6,1,0,0,True,True,True,True,False,3418021,14241,2024-11-22
+Rabat,Agdal,Appartement,Neuf,50,4,3,8,0,False,True,False,False,True,660250,13205,2025-02-18
+Oujda,Angad,Terrain,À rénover,1334,0,0,0,16,False,False,False,False,True,2900646,2174,2024-09-27
+Rabat,Souissi,Villa,En construction,443,1,1,0,0,False,False,False,True,True,7012790,15830,2024-10-22
+Tanger,Centre Ville,Riad,Neuf,122,5,4,0,0,False,True,True,True,True,1766882,14482,2024-12-19
+Tanger,Centre Ville,Appartement,En construction,155,4,1,0,0,False,True,False,False,True,1559980,10064,2025-03-02
+Tanger,Cap Spartel,Local commercial,En construction,375,0,0,0,0,False,True,False,False,False,2816078,7509,2025-02-12
+Casablanca,Gauthier,Local commercial,Bon état,222,0,0,0,30,False,True,False,False,False,2464304,11100,2024-10-30
+Rabat,Les Orangers,Villa,À rénover,301,2,2,0,32,False,True,False,True,True,2230880,7411,2024-09-08
+Tanger,Centre Ville,Maison,À rénover,297,3,2,0,20,False,True,True,True,True,1654847,5571,2024-11-08
+Fès,Atlas,Maison,Neuf,94,4,3,0,0,False,False,False,True,True,756969,8052,2024-10-28
+Rabat,Agdal,Local commercial,Neuf,155,0,0,0,0,False,True,False,False,True,2507312,16176,2024-09-26
+Agadir,Talborjt,Villa,En construction,423,1,1,0,0,False,True,True,True,True,3098777,7325,2025-02-25
+Marrakech,Médina,Riad,À rénover,339,1,1,0,32,False,False,True,True,True,2209182,6516,2025-02-25
+Oujda,Hay El Qods,Villa,À rénover,499,3,3,0,29,False,True,True,True,True,2658513,5327,2024-12-17
+Casablanca,Anfa,Terrain,Neuf,1930,0,0,0,0,False,False,False,False,False,10668589,5527,2025-01-17
+Agadir,Centre,Local commercial,Bon état,197,0,0,0,6,False,False,False,False,False,1088720,5526,2025-01-31
+Casablanca,Ain Diab,Appartement,Bon état,150,4,3,9,19,True,False,False,False,True,2226165,14841,2024-10-10
+Marrakech,Palmeraie,Terrain,Neuf,307,0,0,0,0,False,True,False,False,False,3812113,12417,2025-01-25
+Marrakech,Médina,Riad,En construction,271,2,2,0,0,True,True,True,True,True,3183499,11747,2024-12-18
+Marrakech,Hivernage,Maison,À rénover,86,1,1,0,35,False,True,False,True,False,474361,5515,2025-02-13
+Meknès,Marjane,Appartement,Bon état,167,5,1,9,20,True,True,False,False,True,997712,5974,2025-02-10
+Meknès,Hamria,Appartement,En construction,57,6,1,3,0,False,True,False,False,False,371245,6513,2025-02-14
+Oujda,Hay Essalam,Local commercial,À rénover,220,0,0,0,27,False,False,False,False,True,741773,3371,2024-11-04
+Casablanca,Maarif,Appartement,En construction,129,5,4,3,0,True,True,False,False,False,1379402,10693,2024-11-15
+Fès,Route Immouzer,Terrain,Bon état,1909,0,0,0,43,False,True,False,False,True,6863249,3595,2025-03-01
+Tanger,Boukhalef,Villa,À rénover,492,6,4,0,20,False,False,True,True,True,4242896,8623,2024-11-29
+Meknès,Centre Ville,Local commercial,Bon état,141,0,0,0,1,False,True,False,False,True,747885,5304,2024-10-19
+Agadir,Talborjt,Appartement,Neuf,96,4,1,12,0,True,True,False,False,False,1065302,11096,2025-01-18
+Marrakech,Hivernage,Villa,À rénover,423,6,4,0,39,True,True,True,True,True,3009609,7114,2025-01-18
+Meknès,Hamria,Terrain,En construction,1383,0,0,0,0,False,False,False,False,True,7108403,5139,2025-02-14
+Oujda,Hay Essalam,Maison,À rénover,138,6,2,0,18,False,True,False,False,True,446855,3238,2024-11-09
+Oujda,Angad,Local commercial,À rénover,324,0,0,0,45,False,False,False,False,False,1006719,3107,2025-02-18
+Oujda,Centre Ville,Appartement,Neuf,141,3,1,8,0,False,True,False,False,True,750490,5322,2024-10-24
+Agadir,Founty,Local commercial,À rénover,499,0,0,0,31,False,True,False,False,True,2404241,4818,2024-11-29
+Agadir,Founty,Terrain,En construction,1005,0,0,0,0,False,True,False,False,True,7636916,7598,2024-12-23
+Marrakech,Amerchich,Riad,À rénover,314,3,2,0,43,False,True,True,True,True,1812776,5773,2025-02-06
+Fès,Ville Nouvelle,Local commercial,Bon état,394,0,0,0,29,False,False,False,False,False,2790155,7081,2024-11-28
+Marrakech,Hivernage,Villa,Bon état,466,2,2,0,36,False,True,True,False,False,2455788,5269,2025-01-07
+Rabat,Les Orangers,Terrain,En construction,342,0,0,0,0,False,True,False,False,False,1216945,3558,2025-02-23
+Marrakech,Hivernage,Riad,À rénover,239,4,3,0,7,False,False,True,True,True,1252198,5239,2024-09-18
+Casablanca,Ain Diab,Appartement,En construction,67,1,1,12,0,True,True,False,True,True,402118,6001,2024-09-23
+Meknès,Plaisance,Maison,Bon état,118,1,1,0,29,False,True,False,True,True,547869,4642,2025-01-11
+Tanger,Cap Spartel,Local commercial,Bon état,134,0,0,0,40,False,False,False,False,False,752234,5613,2025-01-28
+Agadir,Sonaba,Maison,En construction,151,3,3,0,0,False,True,False,True,False,1148943,7608,2024-11-01
+Tanger,Centre Ville,Riad,Bon état,170,2,2,0,39,False,True,True,False,False,1085377,6384,2024-12-14
+Marrakech,Gueliz,Appartement,Neuf,77,5,2,11,0,False,True,True,False,True,728841,9465,2024-12-27
+Tanger,Centre Ville,Terrain,En construction,945,0,0,0,0,False,True,False,False,True,6379598,6750,2024-10-30
+Marrakech,Médina,Appartement,Neuf,125,5,1,4,0,False,True,False,False,True,1250330,10002,2024-09-16
+Agadir,Founty,Riad,En construction,289,5,4,0,0,True,True,True,True,True,2757037,9539,2024-12-28
+Marrakech,Amerchich,Terrain,À rénover,216,0,0,0,42,False,False,False,False,True,977686,4526,2024-11-01
+Agadir,Sonaba,Terrain,Bon état,645,0,0,0,22,False,True,False,False,True,2719395,4216,2024-11-03
+Tanger,Cap Spartel,Terrain,En construction,1827,0,0,0,0,False,True,False,False,True,10304164,5639,2025-02-21
+Tanger,Centre Ville,Local commercial,Bon état,94,0,0,0,6,False,False,False,False,False,402194,4278,2024-12-13
+Agadir,Founty,Appartement,En construction,127,4,3,10,0,True,True,False,False,True,853389,6719,2025-01-15
+Fès,Ville Nouvelle,Maison,En construction,238,6,1,0,0,False,True,False,True,True,2305538,9687,2025-01-09
+Marrakech,Médina,Local commercial,En construction,255,0,0,0,0,False,False,False,False,True,1268536,4974,2024-11-25
+Fès,Ville Nouvelle,Local commercial,À rénover,276,0,0,0,17,False,False,False,False,True,1182297,4283,2024-12-26
+Meknès,Marjane,Local commercial,En construction,65,0,0,0,0,False,False,False,False,False,407190,6264,2024-10-15
+Rabat,Agdal,Riad,Neuf,268,6,2,0,0,False,False,True,True,True,5271143,19668,2024-12-07
+Rabat,Hassan,Terrain,Neuf,239,0,0,0,0,False,False,False,False,True,3154632,13199,2025-01-28
+Rabat,Les Orangers,Villa,Bon état,229,3,1,0,48,False,True,True,True,True,1529462,6678,2024-12-01
+Rabat,Hay Riad,Riad,À rénover,309,3,3,0,37,False,True,True,True,True,1527845,4944,2024-11-02
+Oujda,Angad,Riad,Bon état,114,6,2,0,49,False,True,True,True,True,598976,5254,2025-02-22
+Meknès,Plaisance,Terrain,Neuf,1723,0,0,0,0,False,False,False,False,False,10428659,6052,2024-10-30
+Fès,Atlas,Terrain,Neuf,235,0,0,0,0,False,True,False,False,False,1686814,7177,2024-09-09
+Oujda,Hay Essalam,Local commercial,À rénover,31,0,0,0,27,False,False,False,False,True,75014,2419,2024-10-13
+Meknès,Plaisance,Terrain,Neuf,1804,0,0,0,0,False,False,False,False,True,7143491,3959,2024-11-30
+Marrakech,Hivernage,Appartement,À rénover,171,4,2,13,2,False,True,False,False,True,848031,4959,2024-11-08
+Agadir,Sonaba,Appartement,Neuf,129,1,1,14,0,False,True,False,False,True,1502143,11644,2025-01-19
+Marrakech,Hivernage,Local commercial,En construction,349,0,0,0,0,False,False,False,False,True,2826269,8098,2025-02-03
+Marrakech,Médina,Villa,En construction,497,3,2,0,0,True,True,True,True,True,7678064,15448,2024-12-27
+Oujda,Centre Ville,Appartement,Neuf,53,1,1,12,0,True,False,False,False,True,585188,11041,2025-01-31
+Rabat,Souissi,Riad,À rénover,184,2,1,0,49,False,False,True,True,True,1002578,5448,2024-12-24
+Rabat,Hassan,Villa,En construction,170,3,3,0,0,False,True,True,True,True,1656069,9741,2025-02-01
+Oujda,Centre Ville,Maison,Neuf,107,1,1,0,0,False,False,False,False,True,1129747,10558,2025-01-21
+Fès,Atlas,Maison,À rénover,129,5,3,0,38,False,False,False,False,False,608187,4714,2025-03-01
+Marrakech,Palmeraie,Appartement,À rénover,179,5,4,11,48,False,True,False,False,True,562935,3144,2024-11-11
+Tanger,Cap Spartel,Terrain,À rénover,242,0,0,0,39,False,False,False,False,True,944680,3903,2024-12-18
+Oujda,Hay Essalam,Terrain,Neuf,1911,0,0,0,0,False,False,False,False,False,8310429,4348,2024-11-15
+Tanger,Boukhalef,Appartement,Bon état,173,3,3,5,14,False,True,False,False,True,1294422,7482,2024-10-05
+Tanger,Centre Ville,Appartement,À rénover,159,2,2,7,44,True,False,False,False,False,732699,4608,2024-09-26
+Fès,Ville Nouvelle,Terrain,Neuf,1912,0,0,0,0,False,True,False,False,False,9530364,4984,2024-10-11
+Fès,Ville Nouvelle,Terrain,À rénover,1861,0,0,0,43,False,True,False,False,True,3825321,2055,2024-12-15
+Agadir,Founty,Villa,À rénover,393,3,1,0,13,False,False,True,True,True,2295230,5840,2024-09-09
+Tanger,Boukhalef,Maison,Bon état,260,1,1,0,32,False,False,False,True,True,1805374,6943,2025-01-07
+Agadir,Sonaba,Terrain,Bon état,1173,0,0,0,29,False,True,False,False,True,5482910,4674,2024-12-15
+Tanger,Centre Ville,Appartement,À rénover,167,6,3,11,21,True,True,True,False,True,1082016,6479,2024-09-19
+Meknès,Centre Ville,Maison,En construction,173,6,4,0,0,False,True,False,True,True,1265359,7314,2024-10-04
+Meknès,Centre Ville,Riad,Neuf,115,1,1,0,0,False,True,True,True,False,1051189,9140,2024-12-01
+Fès,Médina,Local commercial,À rénover,180,0,0,0,15,False,False,False,False,False,1093954,6077,2025-01-30
+Rabat,Agdal,Terrain,Bon état,1971,0,0,0,8,False,False,False,False,False,13201874,6698,2024-12-31
+Oujda,Angad,Maison,Bon état,214,5,1,0,6,False,False,False,True,False,1478910,6910,2024-10-08
+Casablanca,CIL,Appartement,En construction,97,6,3,10,0,True,True,True,False,True,1169292,12054,2024-12-10
+Casablanca,Maarif,Appartement,En construction,69,5,3,4,0,False,False,False,False,True,839753,12170,2025-01-24
+Oujda,Hay El Qods,Villa,Bon état,164,5,1,0,44,False,False,True,True,True,842226,5135,2024-10-15
+Meknès,Centre Ville,Maison,En construction,83,5,1,0,0,False,False,False,True,True,520906,6275,2025-01-28
+Meknès,Hamria,Villa,Bon état,479,5,2,0,24,False,False,True,True,False,2621261,5472,2024-11-11
+Rabat,Hay Riad,Riad,En construction,284,4,2,0,0,False,True,True,False,True,3815214,13433,2024-10-02
+Rabat,Les Orangers,Appartement,Neuf,134,4,2,14,0,True,True,False,False,True,1096872,8185,2024-10-14
+Tanger,Malabata,Local commercial,En construction,185,0,0,0,0,False,True,False,False,False,1351699,7306,2025-01-12
+Rabat,Souissi,Maison,Bon état,200,2,1,0,22,False,False,False,True,True,2026198,10130,2024-09-17
+Casablanca,Gauthier,Local commercial,Neuf,461,0,0,0,0,False,True,False,False,True,8974198,19466,2024-12-15
+Rabat,Agdal,Villa,Neuf,281,1,1,0,0,False,False,True,True,True,1576011,5608,2024-12-15
+Marrakech,Médina,Riad,À rénover,337,5,2,0,35,False,True,True,True,True,2671969,7928,2024-10-24
+Casablanca,CIL,Terrain,Bon état,1288,0,0,0,38,False,False,False,False,False,8058081,6256,2024-12-09
+Oujda,Angad,Appartement,Bon état,167,2,2,7,7,False,False,False,False,False,1199392,7181,2024-09-13
+Oujda,Angad,Local commercial,Bon état,124,0,0,0,2,False,False,False,False,True,1014079,8178,2024-09-29
+Meknès,Plaisance,Terrain,Neuf,207,0,0,0,0,False,False,False,False,True,776418,3750,2024-09-17
+Meknès,Plaisance,Villa,Neuf,176,2,1,0,0,False,True,True,True,True,1748551,9934,2025-01-27
+Oujda,Hay El Qods,Riad,Neuf,370,3,3,0,0,False,True,True,True,True,3136905,8478,2024-09-23
+Meknès,Centre Ville,Terrain,En construction,713,0,0,0,0,False,False,False,False,True,2720910,3816,2025-02-06
+Fès,Ville Nouvelle,Riad,En construction,168,4,2,0,0,False,True,True,True,True,1190533,7086,2024-12-08
+Tanger,Malabata,Maison,En construction,141,2,2,0,0,False,True,False,True,True,1295611,9188,2024-09-22
+Fès,Atlas,Appartement,Neuf,193,2,2,2,0,False,True,False,False,False,1669450,8650,2024-11-26
+Casablanca,Bourgogne,Terrain,En construction,311,0,0,0,0,False,True,False,False,False,2101932,6758,2024-11-29
+Marrakech,Palmeraie,Terrain,Neuf,1024,0,0,0,0,False,True,False,False,False,8800172,8593,2024-12-11
+Rabat,Les Orangers,Terrain,À rénover,456,0,0,0,14,False,True,False,False,True,1050969,2304,2024-10-30
+Marrakech,Amerchich,Riad,Bon état,117,4,4,0,45,False,True,True,True,False,1124120,9607,2024-10-24
+Casablanca,Ain Diab,Local commercial,Neuf,252,0,0,0,0,False,True,False,False,False,4593142,18226,2024-12-28
+Agadir,Founty,Terrain,En construction,1679,0,0,0,0,False,False,False,False,True,12239675,7289,2024-12-13
+Fès,Route Immouzer,Villa,À rénover,377,2,1,0,35,False,True,True,True,False,2128783,5646,2024-11-26
+Meknès,Centre Ville,Riad,Neuf,163,1,1,0,0,False,True,True,True,True,1567646,9617,2025-01-07
+Rabat,Hay Riad,Local commercial,Bon état,129,0,0,0,6,False,True,False,False,True,1156475,8964,2024-10-01
+Agadir,Sonaba,Maison,À rénover,119,6,4,0,31,False,True,True,True,True,509672,4282,2025-02-27
+Marrakech,Amerchich,Riad,En construction,146,4,4,0,0,False,True,True,True,True,1211094,8295,2024-12-24
+Tanger,Cap Spartel,Appartement,En construction,187,3,2,8,0,False,False,True,False,True,1087302,5814,2025-03-05
+Tanger,Boukhalef,Local commercial,Bon état,427,0,0,0,15,False,False,False,False,True,2864035,6707,2025-02-02
+Agadir,Talborjt,Villa,Neuf,347,1,1,0,0,False,False,True,True,False,4988989,14377,2024-11-29
+Rabat,Hassan,Local commercial,Neuf,496,0,0,0,0,False,True,False,False,True,8564761,17267,2024-11-12
+Meknès,Centre Ville,Maison,Bon état,287,4,4,0,28,False,True,False,True,True,1425297,4966,2024-11-16
+Oujda,Angad,Riad,Neuf,151,6,1,0,0,False,True,True,True,True,1038242,6875,2025-02-13
+Meknès,Hamria,Riad,À rénover,104,1,1,0,22,False,True,True,True,True,398094,3827,2025-02-05
+Oujda,Hay Essalam,Local commercial,En construction,282,0,0,0,0,False,True,False,False,True,1997901,7084,2024-10-20
+Oujda,Hay Essalam,Local commercial,À rénover,90,0,0,0,12,False,False,False,False,True,470319,5225,2025-01-02
+Oujda,Hay Essalam,Villa,Bon état,302,6,2,0,23,False,True,True,True,True,1212368,4014,2024-11-29
+Marrakech,Médina,Villa,En construction,378,3,1,0,0,True,False,True,True,True,7117072,18828,2025-01-13
+Agadir,Centre,Riad,Neuf,392,4,2,0,0,False,True,True,True,False,4228853,10787,2024-10-13
+Oujda,Hay El Qods,Riad,Neuf,180,6,3,0,0,False,True,True,True,True,1386808,7704,2025-02-16
+Meknès,Centre Ville,Riad,Bon état,264,6,2,0,8,False,True,False,True,False,2220717,8411,2024-12-09
+Oujda,Centre Ville,Villa,En construction,344,6,4,0,0,False,False,False,True,False,2799976,8139,2024-09-09
+Casablanca,CIL,Villa,À rénover,443,6,1,0,12,False,True,False,False,True,4491878,10139,2024-12-05
+Agadir,Centre,Villa,À rénover,199,3,2,0,18,False,True,True,True,True,678255,3408,2025-01-01
+Agadir,Talborjt,Appartement,Bon état,104,2,1,7,7,False,True,False,True,True,1023375,9840,2025-02-12
+Meknès,Marjane,Local commercial,Bon état,216,0,0,0,38,False,False,False,False,False,1101615,5100,2024-11-26
+Rabat,Agdal,Maison,À rénover,220,3,3,0,13,False,True,False,True,True,1439527,6543,2024-11-12
+Meknès,Marjane,Villa,Bon état,361,6,1,0,5,False,True,True,True,True,2878251,7972,2024-11-01
+Casablanca,Gauthier,Local commercial,En construction,159,0,0,0,0,False,False,False,False,False,1231011,7742,2024-09-15
+Rabat,Hay Riad,Terrain,En construction,271,0,0,0,0,False,True,False,False,False,1178490,4348,2024-10-20
+Oujda,Hay El Qods,Villa,Bon état,323,2,2,0,2,False,True,True,True,True,2174010,6730,2025-02-10
+Casablanca,Anfa,Appartement,Neuf,182,6,1,8,0,False,False,False,False,True,2462978,13532,2024-11-29
+Marrakech,Palmeraie,Riad,Bon état,112,3,2,0,2,False,True,False,True,False,1575036,14062,2024-12-27
+Tanger,Boukhalef,Terrain,Bon état,213,0,0,0,6,False,False,False,False,True,1528772,7177,2024-12-04
+Casablanca,Ain Diab,Riad,À rénover,245,4,1,0,9,False,False,True,False,True,2086537,8516,2025-01-26
+Agadir,Talborjt,Maison,Bon état,222,3,1,0,11,True,True,True,True,False,2021311,9105,2024-10-01
+Casablanca,Gauthier,Riad,À rénover,158,3,2,0,17,False,True,False,True,True,1052723,6662,2024-10-18
+Marrakech,Gueliz,Maison,À rénover,142,5,1,0,33,False,False,False,True,True,641746,4519,2024-12-20
+Marrakech,Hivernage,Appartement,Bon état,105,4,2,0,27,False,True,True,False,True,566702,5397,2024-09-09
+Oujda,Centre Ville,Maison,Neuf,262,1,1,0,0,False,True,True,True,False,2319670,8853,2025-01-26
+Marrakech,Médina,Appartement,Neuf,86,1,1,10,0,False,True,False,False,True,1256054,14605,2025-01-07
+Tanger,Centre Ville,Villa,À rénover,406,1,1,0,23,False,True,True,True,False,2152183,5300,2025-01-19
+Rabat,Hassan,Appartement,Bon état,70,5,4,0,40,True,False,False,False,True,568309,8118,2025-01-29
+Agadir,Talborjt,Appartement,À rénover,82,5,2,12,32,True,True,False,False,True,381342,4650,2025-02-09
+Oujda,Centre Ville,Villa,Bon état,372,4,1,0,48,False,True,True,True,False,1008282,2710,2024-09-09
+Tanger,Cap Spartel,Riad,À rénover,259,6,3,0,20,False,False,True,True,True,1535208,5927,2025-02-28
+Fès,Ville Nouvelle,Local commercial,À rénover,72,0,0,0,31,False,True,False,False,False,284395,3949,2024-11-08
+Rabat,Agdal,Terrain,Neuf,1756,0,0,0,0,False,True,False,False,False,16346129,9308,2025-03-05
+Rabat,Les Orangers,Maison,Neuf,259,4,4,0,0,True,True,False,True,True,2805476,10831,2024-10-20
+Marrakech,Palmeraie,Villa,En construction,206,1,1,0,0,False,False,True,True,True,824950,4004,2024-10-20
+Oujda,Angad,Riad,Neuf,313,2,1,0,0,False,True,True,True,True,3038367,9707,2025-02-27
+Rabat,Souissi,Local commercial,En construction,366,0,0,0,0,False,False,False,False,False,4700314,12842,2025-02-05
+Oujda,Angad,Terrain,À rénover,717,0,0,0,17,False,True,False,False,True,1912012,2666,2025-01-30
+Meknès,Centre Ville,Local commercial,Bon état,475,0,0,0,14,False,True,False,False,True,2527165,5320,2025-02-28
+Fès,Atlas,Riad,Bon état,214,5,3,0,16,False,True,True,True,True,1555372,7268,2024-10-08
+Casablanca,Bourgogne,Villa,Neuf,332,4,1,0,0,False,False,True,True,False,7765146,23388,2024-10-24
+Oujda,Centre Ville,Terrain,Neuf,256,0,0,0,0,False,False,False,False,True,1638983,6402,2025-01-17
+Oujda,Hay El Qods,Villa,En construction,245,3,2,0,0,False,False,True,True,False,1866853,7619,2024-11-11
+Rabat,Souissi,Terrain,Neuf,961,0,0,0,0,False,False,False,False,True,12173064,12667,2024-10-10
+Meknès,Centre Ville,Terrain,En construction,522,0,0,0,0,False,True,False,False,True,2369454,4539,2024-12-22
+Rabat,Les Orangers,Villa,Neuf,412,4,2,0,0,False,False,True,True,True,6010927,14589,2024-09-10
+Agadir,Talborjt,Maison,Bon état,82,4,1,0,40,False,True,False,True,True,358635,4373,2025-01-02
+Tanger,Malabata,Appartement,À rénover,85,2,1,3,27,False,False,True,False,False,334590,3936,2024-11-22
+Fès,Route Immouzer,Riad,À rénover,233,1,1,0,33,False,True,True,True,True,452613,1942,2025-02-13
+Casablanca,Anfa,Riad,Bon état,276,4,4,0,1,False,False,True,True,True,4594717,16647,2025-03-06
+Tanger,Malabata,Appartement,En construction,178,1,1,12,0,True,False,True,False,True,1438967,8084,2025-01-18
+Oujda,Hay El Qods,Villa,Bon état,367,2,2,0,7,False,True,True,True,True,2314594,6306,2024-09-10
+Oujda,Centre Ville,Local commercial,En construction,75,0,0,0,0,False,False,False,False,True,385575,5141,2024-10-08
+Rabat,Les Orangers,Appartement,En construction,89,6,3,0,0,False,True,False,False,True,1259113,14147,2024-11-18
+Fès,Atlas,Maison,Neuf,173,3,1,0,0,False,True,False,True,True,1623603,9384,2024-12-07
+Marrakech,Médina,Villa,Neuf,246,4,3,0,0,False,False,True,True,True,1222464,4969,2024-12-10
+Casablanca,Anfa,Local commercial,En construction,411,0,0,0,0,False,True,False,False,False,4610775,11218,2025-01-19
+Oujda,Centre Ville,Maison,Bon état,124,4,3,0,18,False,False,False,True,True,511665,4126,2024-10-17
+Rabat,Hassan,Terrain,Bon état,1527,0,0,0,46,False,False,False,False,False,8320712,5449,2024-11-16
+Agadir,Talborjt,Villa,En construction,494,4,4,0,0,False,True,True,True,True,4806694,9730,2024-12-02
+Tanger,Malabata,Appartement,Bon état,156,1,1,2,10,False,True,False,False,True,1589509,10189,2025-02-25
+Fès,Ville Nouvelle,Appartement,À rénover,79,6,1,9,48,False,False,False,False,True,180414,2283,2024-10-23
+Tanger,Cap Spartel,Villa,Neuf,166,5,3,0,0,False,False,True,True,True,2039042,12283,2024-09-16
+Fès,Atlas,Terrain,Bon état,1426,0,0,0,42,False,False,False,False,True,4592324,3220,2024-10-30
+Oujda,Angad,Appartement,En construction,94,3,3,5,0,True,True,False,False,True,676611,7197,2025-02-09
+Fès,Médina,Villa,Bon état,413,3,3,0,2,False,True,True,True,True,2586937,6263,2024-09-30
+Tanger,Malabata,Villa,En construction,365,2,2,0,0,False,True,True,True,True,4276874,11717,2024-12-21
+Meknès,Centre Ville,Maison,Neuf,236,2,2,0,0,False,False,False,True,True,3298398,13976,2024-09-11
+Fès,Médina,Local commercial,Bon état,322,0,0,0,13,False,True,False,False,True,1644429,5106,2024-11-13
+Fès,Médina,Villa,En construction,459,4,3,0,0,True,False,True,True,True,2909684,6339,2024-12-07
+Casablanca,CIL,Villa,Bon état,345,2,1,0,19,False,True,True,True,False,3629690,10520,2025-02-17
+Fès,Médina,Riad,Neuf,359,3,3,0,0,False,False,True,True,False,3655038,10181,2024-10-12
+Tanger,Cap Spartel,Villa,En construction,447,6,2,0,0,False,True,True,True,True,5051618,11301,2024-10-06
+Tanger,Cap Spartel,Local commercial,À rénover,195,0,0,0,19,False,False,False,False,True,1239011,6353,2024-11-11
+Meknès,Centre Ville,Villa,En construction,496,5,3,0,0,True,True,True,True,True,4472574,9017,2024-09-08
+Rabat,Les Orangers,Villa,En construction,184,1,1,0,0,False,True,False,True,False,2297640,12487,2025-01-12
+Fès,Ville Nouvelle,Riad,En construction,261,6,2,0,0,False,True,True,True,True,1633484,6258,2025-03-06
+Fès,Route Immouzer,Appartement,À rénover,49,6,2,10,39,True,True,False,False,True,192230,3923,2024-10-14
+Agadir,Centre,Terrain,Bon état,1807,0,0,0,16,False,False,False,False,True,12016449,6649,2025-01-04
+Oujda,Hay El Qods,Appartement,À rénover,75,1,1,14,45,True,True,False,False,True,203691,2715,2025-02-07
+Meknès,Hamria,Local commercial,Bon état,422,0,0,0,12,False,False,False,False,True,2669041,6324,2024-10-19
+Fès,Médina,Maison,En construction,196,5,2,0,0,False,False,False,True,True,1304623,6656,2024-12-27
+Meknès,Marjane,Maison,Neuf,199,1,1,0,0,False,False,False,True,True,1607215,8076,2024-11-22
+Agadir,Sonaba,Maison,Neuf,269,5,3,0,0,False,True,True,True,False,2492163,9264,2024-10-28
+Marrakech,Amerchich,Local commercial,À rénover,391,0,0,0,17,False,False,False,False,True,3914387,10011,2024-09-27
+Marrakech,Hivernage,Villa,En construction,478,5,4,0,0,False,True,False,True,False,2238180,4682,2024-12-05
+Marrakech,Amerchich,Maison,Bon état,279,5,2,0,48,False,True,False,True,False,1142526,4095,2025-03-06
+Tanger,Malabata,Appartement,Neuf,172,6,3,10,0,True,False,False,False,False,1395425,8112,2024-12-19
+Meknès,Hamria,Riad,À rénover,123,4,1,0,33,False,True,True,True,True,467292,3799,2025-02-01
+Casablanca,Ain Diab,Villa,Neuf,433,3,3,0,0,False,True,True,True,True,4727533,10918,2024-09-30
+Oujda,Hay Essalam,Villa,Bon état,454,1,1,0,49,False,True,True,True,True,1796190,3956,2024-09-25
+Oujda,Angad,Maison,Neuf,143,4,4,0,0,False,True,False,True,True,1379963,9650,2025-01-22
+Oujda,Angad,Riad,Neuf,137,6,1,0,0,False,False,True,True,True,834852,6093,2025-02-09
+Tanger,Boukhalef,Maison,Bon état,110,5,4,0,25,False,True,False,True,False,1060793,9643,2024-09-28
+Marrakech,Palmeraie,Terrain,À rénover,273,0,0,0,31,False,True,False,False,False,1609279,5894,2024-12-02
+Tanger,Cap Spartel,Riad,Bon état,256,6,2,0,32,False,False,True,True,True,2633391,10286,2024-12-22
+Agadir,Talborjt,Local commercial,En construction,334,0,0,0,0,False,False,False,False,True,2556310,7653,2024-11-06
+Agadir,Talborjt,Maison,À rénover,275,3,2,0,28,False,True,False,True,True,1311991,4770,2025-01-17
+Tanger,Cap Spartel,Villa,À rénover,346,2,2,0,44,False,False,True,True,True,1014732,2932,2024-09-15
+Casablanca,Gauthier,Maison,En construction,170,4,3,0,0,True,True,False,True,True,1676186,9859,2024-10-25
+Casablanca,CIL,Terrain,Neuf,1251,0,0,0,0,False,False,False,False,False,13731871,10976,2024-11-28
+Marrakech,Médina,Local commercial,Bon état,451,0,0,0,44,False,True,False,False,False,2923321,6481,2025-01-14
+Meknès,Plaisance,Villa,À rénover,268,6,4,0,19,True,True,True,True,False,1197015,4466,2024-10-24
+Oujda,Hay El Qods,Villa,À rénover,347,2,1,0,30,False,True,False,True,True,988031,2847,2024-12-06
+Oujda,Angad,Local commercial,Neuf,415,0,0,0,0,False,True,False,False,False,3425403,8253,2025-02-17
+Meknès,Marjane,Local commercial,Bon état,232,0,0,0,49,False,True,False,False,True,962769,4149,2024-11-15
+Agadir,Talborjt,Appartement,Neuf,84,4,4,12,0,True,False,False,False,True,805930,9594,2024-09-13
+Meknès,Hamria,Maison,Neuf,254,4,4,0,0,False,True,False,True,True,2192419,8631,2024-09-25
+Oujda,Hay El Qods,Maison,À rénover,205,2,2,0,35,False,True,False,False,False,702917,3428,2025-02-08
+Oujda,Angad,Riad,En construction,342,2,2,0,0,False,True,True,True,True,1965162,5746,2024-10-09
+Fès,Médina,Maison,Bon état,175,4,1,0,9,False,False,True,True,False,1474026,8423,2024-09-14
+Fès,Médina,Maison,Bon état,84,4,2,0,37,False,True,False,True,False,347707,4139,2024-10-16
+Marrakech,Médina,Local commercial,À rénover,386,0,0,0,40,False,False,False,False,True,1681619,4356,2025-01-07
+Casablanca,Maarif,Villa,Neuf,472,1,1,0,0,False,True,True,True,True,6827796,14465,2024-12-11
+Tanger,Cap Spartel,Local commercial,En construction,67,0,0,0,0,False,False,False,False,True,574892,8580,2024-09-23
+Meknès,Plaisance,Maison,En construction,265,4,1,0,0,False,True,False,True,True,1799737,6791,2024-12-02
+Meknès,Centre Ville,Riad,À rénover,240,6,3,0,20,False,False,False,True,True,1003460,4181,2024-10-07
+Fès,Médina,Appartement,En construction,157,1,1,1,0,False,True,False,False,False,1244547,7927,2024-12-11
+Casablanca,Gauthier,Terrain,Neuf,1390,0,0,0,0,False,False,False,False,True,12249111,8812,2024-09-28
+Fès,Atlas,Appartement,En construction,42,4,1,2,0,False,True,False,False,True,273951,6522,2025-03-03
+Tanger,Cap Spartel,Villa,En construction,206,3,1,0,0,False,True,True,True,True,2440955,11849,2024-12-31
+Casablanca,Ain Diab,Villa,Neuf,223,6,3,0,0,False,True,True,True,True,5030907,22560,2024-12-26
+Oujda,Hay El Qods,Terrain,Neuf,295,0,0,0,0,False,True,False,False,False,2454556,8320,2024-09-25
+Tanger,Boukhalef,Terrain,En construction,1833,0,0,0,0,False,True,False,False,True,5693075,3105,2024-12-11
+Meknès,Hamria,Terrain,À rénover,1846,0,0,0,43,False,True,False,False,True,3800552,2058,2024-11-30
+Tanger,Malabata,Terrain,Neuf,946,0,0,0,0,False,True,False,False,False,9640124,10190,2024-10-25
+Tanger,Malabata,Terrain,Neuf,848,0,0,0,0,False,False,False,False,False,5959389,7027,2025-01-16
+Oujda,Centre Ville,Local commercial,Neuf,419,0,0,0,0,False,False,False,False,False,4480702,10693,2024-11-08
+Agadir,Talborjt,Local commercial,En construction,340,0,0,0,0,False,True,False,False,True,3267421,9610,2025-02-22
+Oujda,Hay Essalam,Appartement,Bon état,155,2,2,13,41,True,True,False,False,True,562489,3628,2025-02-16
+Tanger,Centre Ville,Local commercial,En construction,312,0,0,0,0,False,True,False,False,True,3630632,11636,2024-10-23
+Rabat,Souissi,Local commercial,À rénover,126,0,0,0,34,False,True,False,False,True,680809,5403,2025-01-12
+Agadir,Talborjt,Appartement,En construction,109,5,2,4,0,True,True,False,False,True,648561,5950,2024-11-09
+Agadir,Talborjt,Villa,En construction,199,5,2,0,0,False,True,True,True,True,1465083,7362,2024-11-09
+Fès,Médina,Terrain,En construction,899,0,0,0,0,False,False,False,False,True,4571525,5085,2024-11-23
+Rabat,Agdal,Villa,Bon état,319,5,2,0,45,False,True,True,True,True,2057066,6448,2024-11-06
+Oujda,Centre Ville,Villa,En construction,302,4,3,0,0,False,False,False,True,True,1124657,3724,2025-02-05
+Meknès,Centre Ville,Terrain,Bon état,233,0,0,0,4,False,False,False,False,True,1438914,6175,2024-09-09
+Oujda,Angad,Maison,Bon état,298,1,1,0,15,False,True,False,False,False,1959860,6576,2025-02-01
+Casablanca,Bourgogne,Terrain,Neuf,312,0,0,0,0,False,True,False,False,False,3847451,12331,2024-09-10
+Rabat,Hay Riad,Riad,Neuf,339,4,3,0,0,False,True,True,True,False,7663759,22606,2024-10-03
+Agadir,Founty,Appartement,Bon état,145,5,4,4,26,True,True,False,False,False,1106116,7628,2024-10-26
+Fès,Médina,Riad,En construction,185,2,2,0,0,False,True,True,True,True,1654245,8941,2025-02-25
+Meknès,Hamria,Appartement,Neuf,56,5,1,8,0,False,False,False,False,False,485628,8671,2025-02-15
+Meknès,Plaisance,Terrain,À rénover,876,0,0,0,3,False,True,False,False,True,2539685,2899,2025-03-05
+Oujda,Hay Essalam,Local commercial,À rénover,199,0,0,0,36,False,True,False,False,False,469161,2357,2024-12-11
+Tanger,Malabata,Riad,Bon état,391,6,4,0,34,False,True,True,False,False,3066486,7842,2024-12-13
+Tanger,Malabata,Appartement,Neuf,80,1,1,9,0,True,True,False,False,True,651605,8145,2024-10-08
+Meknès,Hamria,Villa,À rénover,355,2,2,0,42,False,True,True,True,True,1011249,2848,2024-11-21
+Meknès,Plaisance,Villa,Bon état,161,4,3,0,29,False,False,False,True,True,1024949,6366,2025-02-01
+Marrakech,Hivernage,Appartement,En construction,168,1,1,8,0,False,False,False,False,True,1238904,7374,2024-12-31
+Agadir,Centre,Villa,À rénover,275,2,1,0,7,False,False,True,False,True,1479440,5379,2024-09-19
+Marrakech,Hivernage,Appartement,Neuf,158,3,1,5,0,True,False,False,False,True,692798,4384,2025-01-17
+Casablanca,CIL,Riad,En construction,128,3,2,0,0,False,True,True,True,True,1341100,10477,2025-01-16
+Marrakech,Médina,Villa,En construction,320,4,1,0,0,False,True,True,True,False,5371382,16785,2025-02-18
+Fès,Atlas,Local commercial,En construction,146,0,0,0,0,False,False,False,False,False,969023,6637,2024-10-10
+Fès,Atlas,Appartement,Neuf,170,1,1,13,0,True,False,False,False,False,1132012,6658,2024-12-30
+Marrakech,Médina,Maison,Neuf,238,5,3,0,0,False,True,False,True,True,4656076,19563,2024-11-12
+Marrakech,Gueliz,Villa,Bon état,267,1,1,0,3,False,True,True,True,True,2594755,9718,2025-02-10
+Tanger,Cap Spartel,Villa,Bon état,255,5,3,0,44,False,True,True,True,True,1956847,7673,2025-01-12
+Oujda,Centre Ville,Villa,Neuf,496,4,1,0,0,True,True,True,True,True,2989828,6027,2024-12-26
+Meknès,Marjane,Terrain,Bon état,214,0,0,0,30,False,False,False,False,True,971688,4540,2024-12-28
+Oujda,Angad,Terrain,En construction,1123,0,0,0,0,False,False,False,False,True,3976641,3541,2024-11-24
+Tanger,Cap Spartel,Terrain,Neuf,1589,0,0,0,0,False,True,False,False,True,16695763,10507,2025-01-01
+Agadir,Sonaba,Villa,À rénover,282,1,1,0,15,False,True,True,True,True,1989554,7055,2024-12-17
+Rabat,Hassan,Terrain,À rénover,209,0,0,0,20,False,False,False,False,True,1219206,5833,2025-02-08
+Rabat,Les Orangers,Riad,Bon état,148,5,3,0,5,True,False,True,True,True,1798055,12149,2025-01-01
+Rabat,Hassan,Appartement,Neuf,96,5,4,10,0,True,True,False,False,True,1341758,13976,2025-02-03
+Tanger,Malabata,Villa,En construction,263,2,2,0,0,False,True,True,True,True,4000501,15211,2025-01-27
+Meknès,Hamria,Villa,À rénover,411,2,1,0,32,False,True,False,True,False,1706090,4151,2024-10-17
+Fès,Atlas,Local commercial,À rénover,452,0,0,0,44,False,True,False,False,True,1519879,3362,2025-01-16
+Fès,Ville Nouvelle,Villa,En construction,374,3,3,0,0,False,True,True,True,False,4056946,10847,2025-01-22
+Rabat,Agdal,Local commercial,Bon état,108,0,0,0,40,False,False,False,False,True,589967,5462,2024-10-31
+Rabat,Hay Riad,Appartement,En construction,62,4,2,11,0,True,True,False,False,False,658311,10617,2025-02-17
+Agadir,Sonaba,Maison,En construction,224,5,4,0,0,False,True,False,False,True,1925049,8593,2024-09-21
+Fès,Ville Nouvelle,Appartement,À rénover,189,4,1,6,43,True,True,True,False,False,662382,3504,2025-01-21
+Rabat,Agdal,Villa,Neuf,433,6,1,0,0,True,True,False,True,True,10132581,23400,2025-01-03
+Tanger,Malabata,Appartement,En construction,55,2,2,12,0,True,False,False,False,True,473574,8610,2024-09-16
+Casablanca,Maarif,Terrain,Bon état,263,0,0,0,17,False,False,False,False,False,1781328,6773,2025-01-14
+Tanger,Centre Ville,Local commercial,Neuf,221,0,0,0,0,False,True,False,False,False,2080305,9413,2024-10-24
+Rabat,Souissi,Terrain,À rénover,1387,0,0,0,41,False,False,False,False,True,6482044,4673,2025-03-01
+Oujda,Centre Ville,Riad,En construction,233,3,2,0,0,False,True,True,True,True,1858513,7976,2024-10-23
+Meknès,Centre Ville,Local commercial,En construction,494,0,0,0,0,False,True,False,False,False,3493168,7071,2025-01-22
+Fès,Atlas,Villa,Neuf,203,3,1,0,0,True,True,False,True,True,2553156,12577,2024-10-27
+Agadir,Centre,Villa,En construction,421,2,2,0,0,False,True,True,True,False,3191593,7580,2024-09-28
+Marrakech,Hivernage,Riad,À rénover,250,5,2,0,28,False,False,False,False,True,1337038,5348,2024-11-12
+Oujda,Hay Essalam,Local commercial,Bon état,457,0,0,0,16,False,True,False,False,True,3518877,7699,2024-09-27
+Marrakech,Médina,Local commercial,Neuf,35,0,0,0,0,False,False,False,False,False,747692,21362,2024-12-13
+Agadir,Talborjt,Terrain,Bon état,1503,0,0,0,14,False,False,False,False,True,10396633,6917,2025-03-04
+Rabat,Souissi,Terrain,À rénover,1132,0,0,0,21,False,True,False,False,False,4011939,3544,2024-12-26
+Meknès,Marjane,Appartement,Bon état,174,1,1,10,16,False,True,False,False,True,858241,4932,2024-09-23
+Casablanca,Racine,Terrain,Neuf,466,0,0,0,0,False,True,False,False,True,4088708,8774,2025-01-31
+Rabat,Hay Riad,Maison,Neuf,242,4,3,0,0,False,True,False,False,False,1866501,7712,2025-01-27
+Oujda,Centre Ville,Local commercial,À rénover,267,0,0,0,29,False,False,False,False,True,835199,3128,2024-12-27
+Marrakech,Amerchich,Maison,À rénover,134,6,1,0,13,False,True,False,False,True,1208974,9022,2024-10-08
+Meknès,Centre Ville,Maison,Neuf,117,3,3,0,0,False,False,False,True,False,771485,6593,2024-10-24
+Agadir,Talborjt,Maison,Neuf,153,6,2,0,0,False,True,False,True,True,1239681,8102,2024-11-02
+Tanger,Boukhalef,Local commercial,Bon état,111,0,0,0,24,False,True,False,False,True,1080542,9734,2025-02-22
+Rabat,Agdal,Maison,Neuf,80,5,3,0,0,False,True,False,True,True,731621,9145,2025-02-08
+Marrakech,Hivernage,Terrain,Neuf,1111,0,0,0,0,False,True,False,False,True,11191442,10073,2024-12-24
+Fès,Ville Nouvelle,Riad,En construction,112,2,2,0,0,False,False,True,True,True,801312,7154,2024-12-17
+Rabat,Agdal,Terrain,En construction,429,0,0,0,0,False,True,False,False,True,3212615,7488,2025-03-03
+Rabat,Hassan,Maison,En construction,225,6,1,0,0,False,True,False,True,False,2249433,9997,2024-10-09
+Casablanca,Anfa,Maison,Neuf,115,4,1,0,0,False,True,False,True,True,1532993,13330,2024-11-29
+Rabat,Souissi,Terrain,À rénover,1319,0,0,0,46,False,False,False,False,True,3724512,2823,2024-10-02
+Meknès,Marjane,Terrain,En construction,1532,0,0,0,0,False,False,False,False,True,6789637,4431,2024-12-20
+Fès,Atlas,Local commercial,En construction,85,0,0,0,0,False,True,False,False,True,581970,6846,2025-01-13
+Fès,Route Immouzer,Riad,Bon état,218,2,1,0,41,False,True,True,True,True,1045733,4796,2024-11-15
+Meknès,Centre Ville,Local commercial,Neuf,226,0,0,0,0,False,True,False,False,False,2350390,10399,2025-01-08
+Marrakech,Amerchich,Appartement,À rénover,142,6,4,4,20,True,True,False,False,True,1014163,7141,2025-02-16
+Agadir,Sonaba,Villa,En construction,465,1,1,0,0,False,True,True,True,True,4105631,8829,2025-01-26
+Oujda,Hay El Qods,Riad,À rénover,372,4,4,0,30,False,True,False,True,True,1092809,2937,2024-09-21
+Casablanca,Bourgogne,Local commercial,En construction,42,0,0,0,0,False,True,False,False,True,808704,19254,2024-10-26
+Agadir,Centre,Appartement,En construction,134,2,2,3,0,False,False,False,True,True,751509,5608,2024-09-13
+Fès,Route Immouzer,Maison,Neuf,158,2,2,0,0,False,True,False,True,True,1056776,6688,2024-11-09
+Fès,Atlas,Villa,Bon état,247,2,2,0,7,False,True,False,True,False,2484118,10057,2024-10-01
+Agadir,Sonaba,Riad,À rénover,202,2,2,0,21,False,True,True,True,True,1198742,5934,2025-01-05
+Marrakech,Amerchich,Appartement,À rénover,92,2,1,13,7,True,True,False,False,True,806891,8770,2024-10-28
+Casablanca,Anfa,Villa,À rénover,315,5,3,0,12,True,True,True,True,True,2483389,7883,2024-10-05
+Meknès,Centre Ville,Local commercial,En construction,232,0,0,0,0,False,False,False,False,False,1173400,5057,2024-10-25
+Tanger,Boukhalef,Riad,En construction,123,3,3,0,0,False,True,True,True,False,1329845,10811,2025-01-20
+Tanger,Boukhalef,Riad,En construction,222,2,1,0,0,False,True,True,True,False,1443749,6503,2024-12-28
+Casablanca,Bourgogne,Riad,À rénover,391,5,3,0,27,False,False,True,True,True,2924030,7478,2024-09-22
+Meknès,Plaisance,Villa,À rénover,444,2,2,0,29,False,True,True,True,True,1454156,3275,2024-10-10
+Oujda,Hay El Qods,Villa,En construction,481,1,1,0,0,False,True,True,False,False,2819121,5860,2024-12-21
+Casablanca,CIL,Maison,À rénover,89,4,1,0,45,False,True,False,True,False,272172,3058,2024-12-23
+Casablanca,Anfa,Maison,En construction,286,3,3,0,0,False,False,False,True,True,3510252,12273,2024-10-06
+Marrakech,Palmeraie,Riad,En construction,290,6,4,0,0,False,True,False,True,True,3996399,13780,2024-09-08
+Casablanca,Bourgogne,Riad,Bon état,299,2,2,0,11,False,True,True,True,False,2791918,9337,2025-01-29
+Fès,Médina,Local commercial,Bon état,285,0,0,0,49,False,True,False,False,False,1286400,4513,2024-12-22
+Marrakech,Amerchich,Villa,En construction,393,6,2,0,0,True,True,True,True,True,4934678,12556,2024-09-29
+Meknès,Marjane,Terrain,Neuf,1163,0,0,0,0,False,False,False,False,True,6983614,6004,2024-10-10
+Marrakech,Palmeraie,Local commercial,Bon état,265,0,0,0,17,False,True,False,False,False,2742888,10350,2024-12-07
+Agadir,Sonaba,Maison,En construction,109,3,3,0,0,False,False,False,True,True,743972,6825,2024-10-25
+Fès,Médina,Riad,En construction,262,3,3,0,0,False,True,True,True,True,1838940,7018,2025-01-31
+Rabat,Les Orangers,Villa,À rénover,410,3,2,0,23,False,False,True,True,False,3012251,7346,2025-02-06
+Rabat,Hay Riad,Terrain,Neuf,974,0,0,0,0,False,False,False,False,False,11313473,11615,2025-01-31
+Agadir,Founty,Villa,À rénover,393,2,2,0,18,False,True,True,False,False,1626355,4138,2024-10-16
+Meknès,Hamria,Riad,À rénover,210,2,1,0,8,False,True,True,True,True,790938,3766,2024-12-30
+Meknès,Centre Ville,Local commercial,Neuf,199,0,0,0,0,False,False,False,False,True,2225224,11182,2024-12-25
+Agadir,Sonaba,Appartement,Bon état,130,3,1,9,49,False,True,False,True,True,549858,4229,2024-11-12
+Agadir,Founty,Appartement,À rénover,114,4,1,8,22,False,True,False,False,True,395166,3466,2024-10-19
+Casablanca,Bourgogne,Appartement,À rénover,40,1,1,9,12,True,True,False,False,True,397098,9927,2024-12-03
+Tanger,Boukhalef,Riad,À rénover,370,5,2,0,31,False,True,True,True,True,1821469,4922,2025-01-06
+Tanger,Boukhalef,Maison,Bon état,244,6,3,0,31,False,False,False,False,False,1987143,8144,2025-01-29
+Meknès,Marjane,Appartement,À rénover,96,3,3,12,25,False,True,True,False,True,451103,4698,2024-11-19
+Casablanca,Ain Diab,Villa,En construction,259,4,1,0,0,False,True,False,True,True,4055938,15659,2024-11-01
+Oujda,Hay El Qods,Terrain,En construction,1364,0,0,0,0,False,False,False,False,False,7698143,5643,2024-12-24
+Meknès,Plaisance,Riad,En construction,121,4,3,0,0,False,False,True,True,True,922316,7622,2024-10-21
+Tanger,Cap Spartel,Riad,À rénover,185,2,1,0,10,False,True,True,True,False,1250523,6759,2025-02-18
+Casablanca,Bourgogne,Maison,Bon état,174,3,2,0,21,False,True,False,True,False,2333477,13410,2024-11-16
+Tanger,Cap Spartel,Local commercial,Neuf,347,0,0,0,0,False,False,False,False,False,5222253,15049,2025-01-13
+Oujda,Centre Ville,Maison,En construction,208,1,1,0,0,False,True,False,True,False,970632,4666,2024-10-15
+Rabat,Agdal,Villa,Bon état,296,4,2,0,22,False,True,False,True,True,3607867,12188,2025-01-12
+Fès,Route Immouzer,Local commercial,À rénover,283,0,0,0,22,False,False,False,False,False,1113473,3934,2024-10-22
+Oujda,Hay El Qods,Riad,En construction,198,5,4,0,0,False,False,True,True,False,1072744,5417,2024-10-06
+Oujda,Hay Essalam,Terrain,En construction,1946,0,0,0,0,False,True,False,False,True,7493738,3850,2024-10-13
+Casablanca,Maarif,Terrain,Bon état,1639,0,0,0,47,False,True,False,False,False,4468162,2726,2024-10-21
+Meknès,Hamria,Appartement,À rénover,146,5,2,13,9,True,False,False,False,False,793872,5437,2025-02-06
+Casablanca,Anfa,Terrain,À rénover,776,0,0,0,34,False,True,False,False,True,4447970,5731,2024-11-07
+Marrakech,Hivernage,Riad,À rénover,221,5,4,0,32,False,True,True,True,True,898680,4066,2024-09-27
+Tanger,Cap Spartel,Riad,À rénover,375,1,1,0,19,False,True,True,True,True,2974832,7932,2024-12-24
+Tanger,Malabata,Villa,Bon état,390,4,2,0,47,True,True,True,True,False,3349108,8587,2024-11-16
+Agadir,Centre,Riad,Neuf,130,2,2,0,0,False,False,True,True,True,1183504,9103,2024-10-01
+Tanger,Malabata,Maison,Bon état,225,2,1,0,48,False,True,False,True,True,1119480,4975,2024-09-16
+Agadir,Sonaba,Riad,En construction,244,6,2,0,0,False,False,True,True,True,1783972,7311,2024-12-24
+Fès,Route Immouzer,Villa,Bon état,166,2,2,0,46,False,True,False,True,True,788543,4750,2024-10-22
+Tanger,Malabata,Terrain,Bon état,332,0,0,0,27,False,True,False,False,True,1712708,5158,2025-02-08
+Tanger,Malabata,Riad,Bon état,388,3,3,0,39,False,False,True,True,True,2899687,7473,2025-01-28
+Rabat,Souissi,Terrain,À rénover,672,0,0,0,41,False,False,False,False,True,2641411,3930,2025-02-17
+Rabat,Hassan,Maison,Neuf,109,4,3,0,0,False,False,False,True,True,1588662,14574,2024-09-10
+Oujda,Hay Essalam,Local commercial,En construction,218,0,0,0,0,False,False,False,False,True,1635039,7500,2024-11-06
+Oujda,Centre Ville,Appartement,Neuf,72,1,1,6,0,True,True,False,False,True,401598,5577,2025-01-04
+Tanger,Centre Ville,Riad,Bon état,190,4,4,0,27,True,True,True,True,False,1523497,8018,2024-12-20
+Rabat,Hay Riad,Appartement,En construction,145,1,1,7,0,False,False,False,False,True,1070091,7379,2025-02-18
+Marrakech,Gueliz,Riad,À rénover,236,5,1,0,19,False,True,True,True,True,1359599,5761,2024-10-05
+Fès,Route Immouzer,Terrain,À rénover,1282,0,0,0,14,False,False,False,False,False,4217895,3290,2024-12-01
+Casablanca,Anfa,Villa,Neuf,283,6,3,0,0,False,False,False,True,True,5143209,18173,2024-10-02
+Oujda,Hay Essalam,Villa,Neuf,208,2,2,0,0,False,True,True,True,True,1778580,8550,2024-12-13
+Oujda,Centre Ville,Local commercial,Bon état,127,0,0,0,8,False,False,False,False,False,498746,3927,2025-01-07
+Tanger,Cap Spartel,Villa,Bon état,276,6,3,0,25,False,False,False,True,True,2242537,8125,2024-11-02
+Rabat,Agdal,Riad,À rénover,246,4,1,0,9,False,True,True,True,True,1627183,6614,2025-01-30
+Oujda,Hay Essalam,Riad,Bon état,231,1,1,0,12,True,True,True,True,True,1531974,6631,2025-02-01
+Tanger,Centre Ville,Local commercial,Neuf,203,0,0,0,0,False,True,False,False,True,2255846,11112,2024-11-15
+Meknès,Plaisance,Riad,Bon état,352,4,2,0,18,True,True,True,True,False,1773286,5037,2025-02-11
+Fès,Atlas,Appartement,Neuf,91,1,1,5,0,True,True,False,False,True,944725,10381,2024-11-05
+Fès,Ville Nouvelle,Local commercial,Bon état,97,0,0,0,34,False,False,False,False,True,529908,5462,2025-01-13
+Casablanca,Racine,Appartement,Neuf,64,6,2,1,0,False,True,False,False,True,782133,12220,2024-12-24
+Fès,Ville Nouvelle,Villa,Bon état,157,5,3,0,5,False,False,True,True,True,1532572,9761,2024-09-09
+Rabat,Hassan,Maison,Neuf,156,4,4,0,0,False,True,False,False,False,3069588,19676,2024-11-14
+Tanger,Malabata,Maison,À rénover,206,6,1,0,45,False,False,True,True,True,1088567,5284,2024-11-07
+Tanger,Boukhalef,Local commercial,En construction,498,0,0,0,0,False,True,False,False,True,4154936,8343,2024-10-28
+Rabat,Hassan,Appartement,Bon état,52,5,3,10,41,True,True,False,False,True,353402,6796,2024-12-19
+Casablanca,Anfa,Maison,Bon état,257,6,1,0,32,False,False,False,True,False,2481803,9656,2024-09-11
+Marrakech,Médina,Riad,Neuf,219,1,1,0,0,False,True,False,True,True,3199498,14609,2024-09-29
+Oujda,Angad,Local commercial,Bon état,328,0,0,0,45,False,True,False,False,True,1413297,4308,2024-12-05
+Agadir,Founty,Riad,À rénover,273,3,1,0,41,False,True,False,True,False,629739,2306,2024-11-29
+Fès,Médina,Maison,Neuf,183,2,1,0,0,False,True,False,True,True,1800312,9837,2024-10-05
+Meknès,Plaisance,Riad,Neuf,202,4,1,0,0,False,False,True,True,False,2058394,10190,2024-12-22
+Meknès,Centre Ville,Villa,En construction,361,4,1,0,0,False,True,False,True,True,2748681,7614,2025-01-06
+Fès,Route Immouzer,Local commercial,En construction,56,0,0,0,0,False,False,False,False,True,325685,5815,2024-10-08
+Oujda,Hay Essalam,Local commercial,Neuf,271,0,0,0,0,False,True,False,False,True,1888197,6967,2024-12-27
+Fès,Route Immouzer,Villa,En construction,459,1,1,0,0,False,False,False,True,True,4232364,9220,2024-10-18
+Meknès,Plaisance,Appartement,Neuf,62,3,3,6,0,True,False,False,False,False,415995,6709,2024-11-03
+Casablanca,Anfa,Local commercial,Bon état,143,0,0,0,41,False,True,False,False,True,1154422,8072,2025-01-28
+Oujda,Angad,Local commercial,En construction,254,0,0,0,0,False,False,False,False,True,1427903,5621,2025-02-09
+Oujda,Angad,Riad,En construction,328,6,1,0,0,False,True,True,True,True,1768770,5392,2024-10-12
+Tanger,Boukhalef,Terrain,À rénover,1824,0,0,0,1,False,True,False,False,False,10077797,5525,2024-12-04
+Fès,Ville Nouvelle,Appartement,À rénover,55,2,2,4,46,True,True,False,False,True,170821,3105,2025-01-16
+Marrakech,Gueliz,Appartement,En construction,182,5,3,5,0,True,False,False,False,True,1512020,8307,2025-02-21
+Tanger,Centre Ville,Local commercial,En construction,325,0,0,0,0,False,False,False,False,True,3057335,9407,2024-12-01
+Meknès,Marjane,Villa,Neuf,296,4,4,0,0,False,True,False,True,True,3365943,11371,2024-12-03
+Oujda,Hay Essalam,Local commercial,Neuf,356,0,0,0,0,False,False,False,False,True,3774545,10602,2024-11-27
+Agadir,Talborjt,Appartement,Bon état,173,5,4,7,30,False,True,False,False,True,1048640,6061,2024-12-25
+Tanger,Centre Ville,Local commercial,À rénover,498,0,0,0,44,False,True,False,False,False,1867725,3750,2025-01-25
+Fès,Médina,Appartement,Neuf,136,1,1,0,0,False,False,False,False,False,1140222,8383,2025-02-14
+Tanger,Centre Ville,Riad,Neuf,292,4,4,0,0,False,True,False,True,False,3890826,13324,2024-11-07
+Fès,Route Immouzer,Local commercial,Neuf,110,0,0,0,0,False,False,False,False,True,1133363,10303,2024-12-14
+Marrakech,Amerchich,Riad,À rénover,168,6,1,0,42,True,False,True,True,True,247549,1473,2025-01-30
+Rabat,Les Orangers,Maison,Neuf,280,1,1,0,0,False,False,False,True,True,3595036,12839,2024-10-01
+Rabat,Agdal,Villa,En construction,362,2,2,0,0,False,False,True,True,True,4014609,11090,2025-02-09
+Rabat,Souissi,Appartement,À rénover,110,2,1,9,22,False,False,False,False,False,906796,8243,2025-01-07
+Tanger,Centre Ville,Terrain,En construction,258,0,0,0,0,False,False,False,False,False,2084954,8081,2024-12-16
+Fès,Médina,Local commercial,Neuf,423,0,0,0,0,False,False,False,False,False,3643013,8612,2025-02-20
+Oujda,Angad,Local commercial,Neuf,311,0,0,0,0,False,False,False,False,False,3032496,9750,2025-01-22
+Meknès,Centre Ville,Appartement,Neuf,186,4,3,7,0,False,True,False,False,True,1851690,9955,2024-09-27
+Fès,Médina,Terrain,Neuf,498,0,0,0,0,False,False,False,False,True,3492263,7012,2024-10-26
+Tanger,Cap Spartel,Appartement,À rénover,184,2,1,9,4,False,True,False,False,True,1357819,7379,2025-02-13
+Tanger,Malabata,Villa,Neuf,486,1,1,0,0,False,True,True,True,True,6664825,13713,2024-11-18
+Casablanca,Ain Diab,Local commercial,Bon état,112,0,0,0,47,False,False,False,False,False,654551,5844,2025-01-04
+Rabat,Les Orangers,Terrain,À rénover,847,0,0,0,13,False,False,False,False,True,5854818,6912,2024-12-30
+Meknès,Marjane,Maison,À rénover,202,6,4,0,37,False,True,False,True,True,773292,3828,2025-03-01
+Meknès,Plaisance,Riad,Bon état,257,3,3,0,23,False,True,False,True,True,1709313,6651,2025-02-10
+Meknès,Centre Ville,Local commercial,Bon état,145,0,0,0,35,False,False,False,False,False,851252,5870,2024-11-17
+Tanger,Cap Spartel,Terrain,Neuf,241,0,0,0,0,False,False,False,False,True,1821872,7559,2024-12-20
+Oujda,Centre Ville,Appartement,En construction,139,3,1,8,0,False,True,False,False,False,738912,5315,2024-09-27
+Fès,Médina,Appartement,Neuf,187,6,2,4,0,False,True,False,False,True,1572412,8408,2024-11-06
+Agadir,Talborjt,Terrain,Bon état,957,0,0,0,38,False,True,False,False,True,3175891,3318,2024-11-22
+Oujda,Hay Essalam,Local commercial,En construction,388,0,0,0,0,False,True,False,False,True,2017591,5199,2024-10-07
+Rabat,Hay Riad,Local commercial,À rénover,450,0,0,0,16,False,False,False,False,True,2875540,6390,2024-12-18
+Oujda,Angad,Riad,Bon état,180,1,1,0,30,False,True,True,True,True,1161489,6452,2025-02-11
+Tanger,Malabata,Maison,Bon état,260,2,1,0,17,False,False,False,True,True,2208907,8495,2024-12-03
+Rabat,Hay Riad,Appartement,Bon état,137,5,4,8,35,False,False,False,False,False,682929,4984,2024-09-24
+Casablanca,Gauthier,Local commercial,Bon état,74,0,0,0,9,False,True,False,False,True,661272,8936,2025-03-04
+Marrakech,Médina,Appartement,En construction,162,5,2,7,0,True,False,False,False,False,757351,4675,2024-10-28
+Casablanca,Maarif,Terrain,À rénover,774,0,0,0,34,False,False,False,False,True,4563899,5896,2024-12-15
+Oujda,Hay Essalam,Villa,Neuf,169,4,2,0,0,False,False,True,True,True,1207100,7142,2024-10-14
+Agadir,Sonaba,Villa,Neuf,408,1,1,0,0,False,True,True,True,False,6002300,14711,2024-11-20
+Marrakech,Palmeraie,Riad,Neuf,179,6,2,0,0,False,True,True,True,True,2356019,13162,2024-12-29
+Tanger,Cap Spartel,Villa,En construction,200,4,4,0,0,False,True,True,True,True,2114041,10570,2025-03-06
+Oujda,Hay Essalam,Villa,En construction,454,5,3,0,0,False,True,True,True,False,3018944,6649,2024-09-09
+Oujda,Centre Ville,Villa,À rénover,167,4,4,0,40,False,False,True,True,True,467013,2796,2025-03-05
+Agadir,Sonaba,Villa,À rénover,276,3,2,0,42,False,True,True,True,True,1144413,4146,2024-09-16
+Agadir,Centre,Villa,En construction,372,4,1,0,0,False,True,True,True,True,3608781,9701,2024-11-19
+Tanger,Cap Spartel,Maison,Bon état,191,3,3,0,3,False,True,False,True,True,1733779,9077,2025-01-25
+Oujda,Angad,Villa,Bon état,397,4,1,0,10,True,True,True,True,True,2985521,7520,2024-09-28
+Rabat,Agdal,Villa,En construction,247,3,3,0,0,False,False,True,True,True,3766240,15247,2024-10-05
+Oujda,Angad,Terrain,Neuf,1860,0,0,0,0,False,False,False,False,False,8211130,4414,2024-11-02
+Rabat,Hassan,Villa,En construction,408,5,2,0,0,False,True,True,True,True,3105141,7610,2024-10-25
+Agadir,Talborjt,Maison,À rénover,192,5,1,0,22,False,False,False,False,True,978314,5095,2024-12-14
+Tanger,Malabata,Terrain,Neuf,1551,0,0,0,0,False,True,False,False,False,13086071,8437,2024-09-18
+Marrakech,Palmeraie,Villa,À rénover,232,1,1,0,10,False,False,True,False,True,1894800,8167,2024-11-11
+Casablanca,Ain Diab,Villa,Bon état,187,1,1,0,24,False,True,True,True,False,1850148,9893,2024-10-24
+Oujda,Angad,Local commercial,Neuf,46,0,0,0,0,False,True,False,False,False,421658,9166,2025-02-17
+Rabat,Agdal,Riad,Bon état,393,2,1,0,13,False,True,True,True,False,5518842,14042,2025-03-06
+Marrakech,Amerchich,Villa,Bon état,432,3,3,0,5,False,True,False,True,True,6829777,15809,2025-01-19
+Meknès,Marjane,Terrain,Neuf,1082,0,0,0,0,False,False,False,False,True,5394413,4985,2024-09-26
+Rabat,Hay Riad,Terrain,En construction,1183,0,0,0,0,False,True,False,False,True,10376432,8771,2024-12-17
+Agadir,Centre,Terrain,En construction,748,0,0,0,0,False,True,False,False,False,5479545,7325,2024-12-24
+Meknès,Hamria,Maison,Neuf,143,3,2,0,0,False,False,False,True,True,1651297,11547,2024-09-26
+Agadir,Sonaba,Riad,À rénover,366,5,3,0,27,False,True,False,True,True,1445640,3949,2024-11-01
+Casablanca,Racine,Villa,Neuf,163,4,4,0,0,False,True,True,True,False,2741312,16817,2024-12-08
+Agadir,Founty,Maison,Bon état,214,5,4,0,31,False,True,False,True,False,1058574,4946,2024-09-30
+Meknès,Marjane,Riad,En construction,255,3,2,0,0,False,True,True,True,True,1878034,7364,2024-11-07
+Oujda,Angad,Terrain,Neuf,287,0,0,0,0,False,True,False,False,False,2625078,9146,2025-02-04
+Fès,Ville Nouvelle,Appartement,Bon état,162,4,2,11,31,False,False,False,False,False,859851,5307,2025-02-11
+Fès,Médina,Maison,Neuf,221,1,1,0,0,False,False,False,True,True,2018030,9131,2024-12-20
+Fès,Ville Nouvelle,Villa,En construction,338,5,4,0,0,False,False,True,True,True,2241311,6631,2024-11-24
+Rabat,Hay Riad,Local commercial,À rénover,416,0,0,0,2,False,False,False,False,False,4341333,10435,2024-09-29
+Meknès,Hamria,Appartement,Neuf,133,3,1,11,0,True,True,False,False,False,1175250,8836,2024-12-27
+Meknès,Centre Ville,Local commercial,À rénover,313,0,0,0,28,False,False,False,False,False,597266,1908,2025-01-11
+Rabat,Agdal,Appartement,Neuf,138,5,3,14,0,False,False,False,False,False,2506746,18164,2024-11-14
+Oujda,Hay El Qods,Terrain,Neuf,1552,0,0,0,0,False,True,False,False,True,9496956,6119,2025-01-25
+Marrakech,Hivernage,Maison,Bon état,221,5,4,0,7,False,True,False,True,True,2849243,12892,2025-01-31
+Casablanca,Anfa,Terrain,À rénover,901,0,0,0,41,False,False,False,False,False,3218245,3571,2025-02-21
+Oujda,Centre Ville,Appartement,Neuf,158,5,1,5,0,True,True,False,False,True,1111120,7032,2024-12-26
+Oujda,Angad,Villa,En construction,281,1,1,0,0,False,True,True,True,True,2386164,8491,2024-09-29
+Meknès,Hamria,Villa,Bon état,483,3,2,0,21,False,True,True,True,True,3617093,7488,2024-12-18
+Rabat,Souissi,Local commercial,En construction,197,0,0,0,0,False,False,False,False,False,2292529,11637,2025-01-01
+Marrakech,Palmeraie,Villa,À rénover,484,2,2,0,40,False,True,True,True,True,2336622,4827,2024-10-31
+Agadir,Founty,Terrain,Neuf,359,0,0,0,0,False,False,False,False,False,2841964,7916,2025-02-10
+Rabat,Les Orangers,Maison,En construction,271,6,3,0,0,False,False,False,True,False,3164657,11677,2024-10-17
+Tanger,Boukhalef,Local commercial,En construction,263,0,0,0,0,False,False,False,False,False,2136586,8123,2024-10-10
+Fès,Médina,Appartement,Neuf,98,4,4,11,0,True,False,False,False,True,571357,5830,2024-12-18
+Agadir,Talborjt,Terrain,À rénover,712,0,0,0,12,False,False,False,False,True,2412762,3388,2024-10-05
+Agadir,Centre,Villa,Neuf,409,3,3,0,0,False,False,True,True,True,4000692,9781,2025-01-13
+Casablanca,Ain Diab,Villa,Bon état,196,5,3,0,26,False,True,True,True,False,1996695,10187,2024-12-27
+Rabat,Souissi,Riad,À rénover,224,2,2,0,41,False,False,False,True,True,1055643,4712,2025-02-21
+Fès,Médina,Appartement,Bon état,106,5,3,7,18,True,True,False,False,True,630508,5948,2025-03-04
+Fès,Médina,Appartement,En construction,159,5,3,2,0,False,False,True,False,True,1060277,6668,2025-02-23
+Casablanca,Racine,Appartement,En construction,122,3,2,3,0,False,True,False,False,False,1710624,14021,2025-01-15
+Marrakech,Hivernage,Local commercial,Bon état,425,0,0,0,46,False,True,False,False,True,1973323,4643,2025-01-04
+Rabat,Agdal,Maison,Neuf,291,4,2,0,0,False,True,True,True,True,3199455,10994,2024-10-09
+Fès,Atlas,Appartement,À rénover,127,4,1,3,11,False,True,False,False,False,588038,4630,2025-01-01
+Agadir,Centre,Villa,Neuf,263,6,4,0,0,False,False,True,True,True,4777030,18163,2025-02-09
+Oujda,Centre Ville,Local commercial,À rénover,44,0,0,0,20,False,True,False,False,False,152519,3466,2025-02-11
+Meknès,Marjane,Local commercial,En construction,310,0,0,0,0,False,True,False,False,False,3010044,9709,2024-11-05
+Casablanca,CIL,Local commercial,En construction,456,0,0,0,0,False,False,False,False,True,8905969,19530,2024-09-16
+Meknès,Centre Ville,Riad,Neuf,385,5,2,0,0,False,False,True,True,True,3317135,8615,2025-02-01
+Tanger,Centre Ville,Appartement,Neuf,149,4,3,6,0,False,True,False,False,True,812722,5454,2025-02-19
+Tanger,Malabata,Riad,Bon état,330,2,1,0,20,False,True,False,True,True,2626290,7958,2024-11-25
+Meknès,Plaisance,Maison,Bon état,139,3,2,0,42,False,True,False,False,False,600247,4318,2025-02-09
+Marrakech,Médina,Local commercial,En construction,492,0,0,0,0,False,False,False,False,True,6334527,12875,2024-09-18
+Casablanca,Anfa,Villa,En construction,269,4,1,0,0,False,True,True,True,False,5163894,19196,2025-01-19
+Rabat,Agdal,Terrain,Bon état,960,0,0,0,15,False,True,False,False,True,8875405,9245,2025-03-05
+Meknès,Centre Ville,Terrain,Neuf,821,0,0,0,0,False,False,False,False,True,4718911,5747,2024-10-11
+Oujda,Hay Essalam,Villa,En construction,178,4,3,0,0,False,True,True,True,True,1307567,7345,2024-11-05
+Tanger,Malabata,Maison,Bon état,193,3,3,0,11,False,False,False,True,True,2744520,14220,2025-01-26
+Rabat,Agdal,Maison,Neuf,139,5,2,0,0,False,True,False,True,False,2220776,15976,2025-01-14
+Meknès,Hamria,Villa,Bon état,207,1,1,0,7,False,False,True,True,False,1153632,5573,2025-02-05
+Tanger,Malabata,Appartement,En construction,144,5,2,5,0,True,True,False,False,True,1392626,9671,2025-02-12
+Rabat,Les Orangers,Riad,À rénover,367,2,2,0,35,True,True,True,True,False,2727989,7433,2024-12-09
+Tanger,Cap Spartel,Maison,Bon état,243,1,1,0,27,False,True,False,True,False,1645736,6772,2024-12-23
+Oujda,Hay El Qods,Maison,À rénover,148,3,1,0,17,False,False,False,True,True,554966,3749,2025-01-29
+Agadir,Sonaba,Appartement,Neuf,109,5,3,8,0,False,True,True,False,False,884878,8118,2024-10-29
+Casablanca,Maarif,Villa,Bon état,274,5,2,0,44,False,True,True,True,True,3104883,11331,2024-11-24
+Tanger,Centre Ville,Maison,En construction,159,4,4,0,0,False,True,False,True,False,1092504,6871,2025-02-18
+Fès,Atlas,Appartement,Bon état,194,4,1,3,42,True,False,False,False,True,663740,3421,2025-02-01
+Rabat,Hay Riad,Villa,En construction,379,3,3,0,0,False,True,True,True,True,4467587,11787,2024-10-09
+Tanger,Malabata,Terrain,En construction,619,0,0,0,0,False,True,False,False,False,5618587,9076,2024-12-08
+Marrakech,Amerchich,Villa,Neuf,428,1,1,0,0,False,True,True,True,False,10290278,24042,2024-10-27
+Marrakech,Médina,Maison,En construction,208,5,2,0,0,False,False,False,True,True,1203001,5783,2024-09-18
+Meknès,Plaisance,Riad,Bon état,233,2,2,0,35,False,True,False,True,False,1539737,6608,2025-01-19
+Tanger,Centre Ville,Terrain,En construction,862,0,0,0,0,False,False,False,False,True,5783497,6709,2024-09-25
+Agadir,Founty,Maison,Neuf,211,5,1,0,0,False,True,True,True,True,2455720,11638,2024-11-10
+Rabat,Hay Riad,Riad,Bon état,233,4,2,0,37,False,True,True,True,True,1765506,7577,2024-10-26
+Marrakech,Gueliz,Terrain,À rénover,1164,0,0,0,22,False,True,False,False,False,5824543,5003,2024-11-29
+Fès,Médina,Maison,En construction,295,2,2,0,0,False,True,False,True,False,1846960,6260,2024-11-17
+Tanger,Malabata,Terrain,À rénover,994,0,0,0,29,False,True,False,False,True,3402008,3422,2025-02-25
+Fès,Route Immouzer,Villa,En construction,354,2,2,0,0,False,True,True,True,False,2051641,5795,2025-01-03
+Casablanca,Ain Diab,Riad,En construction,136,5,1,0,0,False,True,False,True,True,1830722,13461,2024-10-09
+Marrakech,Médina,Riad,À rénover,123,3,3,0,14,False,True,True,True,True,648083,5268,2024-10-27
+Fès,Atlas,Villa,Bon état,231,5,2,0,40,True,False,False,True,False,1507305,6525,2025-01-03
+Casablanca,Anfa,Terrain,Neuf,444,0,0,0,0,False,False,False,False,True,5640049,12702,2025-02-08
+Casablanca,Maarif,Appartement,Bon état,187,3,3,3,23,False,False,False,False,True,1745291,9333,2025-02-23
+Meknès,Centre Ville,Villa,Bon état,409,6,2,0,24,False,False,True,True,False,1257920,3075,2025-02-14
+Marrakech,Gueliz,Maison,En construction,110,3,3,0,0,False,True,False,True,False,1384937,12590,2024-12-08
+Marrakech,Médina,Local commercial,En construction,264,0,0,0,0,False,True,False,False,True,2527101,9572,2025-01-27
+Casablanca,CIL,Appartement,Bon état,178,2,2,3,36,False,False,False,False,True,1249408,7019,2024-12-07
+Fès,Médina,Terrain,En construction,1380,0,0,0,0,False,False,False,False,False,7325920,5308,2025-01-27
+Rabat,Hay Riad,Riad,Bon état,306,6,3,0,36,False,True,True,True,True,2860566,9348,2025-01-16
+Meknès,Centre Ville,Riad,À rénover,101,2,2,0,9,False,True,True,True,True,534436,5291,2024-11-22
+Tanger,Centre Ville,Riad,Neuf,182,6,2,0,0,False,True,False,True,True,2598150,14275,2025-02-19
+Oujda,Hay El Qods,Villa,Neuf,252,5,1,0,0,True,False,True,True,False,2086323,8279,2025-02-26
+Fès,Médina,Local commercial,Bon état,133,0,0,0,32,False,True,False,False,True,470641,3538,2025-03-03
+Meknès,Centre Ville,Terrain,Bon état,1328,0,0,0,21,False,False,False,False,True,5105000,3844,2025-01-24
+Meknès,Plaisance,Riad,Bon état,193,5,2,0,26,False,False,True,True,True,1438436,7453,2024-11-23
+Oujda,Hay Essalam,Appartement,Bon état,151,1,1,5,15,False,True,False,False,True,631490,4182,2025-01-29
+Meknès,Plaisance,Local commercial,Bon état,272,0,0,0,38,False,True,False,False,True,1295835,4764,2025-02-20
+Oujda,Centre Ville,Appartement,Neuf,58,4,2,5,0,True,True,True,False,True,330018,5689,2024-12-10
+Agadir,Centre,Terrain,Neuf,642,0,0,0,0,False,False,False,False,True,3484794,5428,2025-02-21
+Oujda,Hay Essalam,Local commercial,À rénover,374,0,0,0,49,False,True,False,False,True,1115694,2983,2025-03-06
+Casablanca,Racine,Local commercial,En construction,349,0,0,0,0,False,False,False,False,True,3118308,8934,2025-01-10
+Rabat,Souissi,Terrain,Bon état,1065,0,0,0,28,False,True,False,False,True,6401564,6010,2024-12-25
+Rabat,Hay Riad,Riad,En construction,112,1,1,0,0,False,True,True,True,True,1310647,11702,2025-02-11
+Rabat,Agdal,Local commercial,Bon état,66,0,0,0,1,False,False,False,False,True,683192,10351,2024-12-01
+Meknès,Marjane,Villa,En construction,245,6,2,0,0,False,True,True,False,False,1605570,6553,2024-11-25
+Meknès,Marjane,Terrain,À rénover,1601,0,0,0,37,False,True,False,False,False,5389930,3366,2024-09-15
+Fès,Ville Nouvelle,Local commercial,Neuf,301,0,0,0,0,False,False,False,False,False,2819295,9366,2024-11-22
+Oujda,Hay Essalam,Appartement,Neuf,50,3,3,13,0,True,False,False,False,True,401732,8034,2025-01-14
+Casablanca,Racine,Local commercial,Bon état,485,0,0,0,33,False,True,False,False,False,5748928,11853,2024-09-09
+Agadir,Talborjt,Riad,En construction,188,4,2,0,0,False,True,False,True,False,1798412,9566,2024-11-14
+Fès,Route Immouzer,Maison,À rénover,163,2,2,0,28,False,True,False,True,True,806097,4945,2024-09-30
+Casablanca,CIL,Maison,Bon état,85,6,3,0,40,False,False,False,True,False,555169,6531,2024-09-24
+Fès,Route Immouzer,Terrain,À rénover,572,0,0,0,14,False,True,False,False,True,2491373,4355,2024-12-18
+Meknès,Marjane,Riad,Neuf,116,3,1,0,0,False,True,True,False,False,921716,7945,2024-10-09
+Meknès,Hamria,Appartement,Neuf,139,2,1,14,0,True,True,False,False,True,1171283,8426,2024-09-20
+Rabat,Hassan,Terrain,À rénover,988,0,0,0,44,False,False,False,False,False,3409917,3451,2024-10-19
+Marrakech,Hivernage,Local commercial,À rénover,419,0,0,0,49,False,False,False,False,True,1726836,4121,2025-01-09
+Marrakech,Médina,Villa,À rénover,268,6,3,0,3,False,False,False,True,True,2517987,9395,2024-12-08
+Meknès,Hamria,Riad,À rénover,384,2,2,0,17,False,True,True,True,True,1955877,5093,2024-09-24
+Marrakech,Amerchich,Local commercial,Bon état,449,0,0,0,45,False,True,False,False,True,4367267,9726,2024-09-22
+Agadir,Founty,Appartement,À rénover,193,1,1,3,3,True,True,False,False,True,1127820,5843,2025-02-16
+Casablanca,Anfa,Maison,En construction,159,5,2,0,0,False,True,True,True,True,1546926,9729,2025-01-29
+Fès,Atlas,Villa,Neuf,304,6,4,0,0,False,True,False,True,True,1709008,5621,2024-10-27
+Fès,Médina,Riad,À rénover,161,1,1,0,46,False,False,True,True,True,683381,4244,2024-10-05
+Meknès,Marjane,Terrain,À rénover,1149,0,0,0,14,False,True,False,False,True,3294788,2867,2024-09-12
+Rabat,Souissi,Terrain,À rénover,1891,0,0,0,3,False,True,False,False,False,9879958,5224,2024-09-12
+Oujda,Angad,Riad,En construction,226,2,2,0,0,False,True,True,True,True,1421033,6287,2024-10-31
+Tanger,Boukhalef,Local commercial,Bon état,52,0,0,0,15,False,False,False,False,False,422021,8115,2025-02-02
+Fès,Route Immouzer,Maison,Bon état,189,5,3,0,35,False,False,False,True,True,1035438,5478,2025-02-01
+Fès,Route Immouzer,Local commercial,Neuf,52,0,0,0,0,False,True,False,False,True,506711,9744,2024-12-07
+Fès,Médina,Maison,À rénover,190,4,1,0,12,False,True,False,True,True,894809,4709,2024-09-08
+Marrakech,Hivernage,Maison,En construction,108,1,1,0,0,False,True,False,True,False,1143353,10586,2024-12-12
+Casablanca,Anfa,Maison,En construction,129,2,2,0,0,False,True,False,True,True,1960197,15195,2024-11-16
+Casablanca,Racine,Maison,En construction,132,3,2,0,0,True,True,True,True,True,2138851,16203,2025-01-14
+Fès,Route Immouzer,Maison,Bon état,85,2,1,0,17,False,False,False,False,False,678404,7981,2025-02-13
+Agadir,Sonaba,Maison,À rénover,136,3,1,0,7,False,False,False,True,False,570732,4196,2025-01-07
+Rabat,Les Orangers,Local commercial,À rénover,484,0,0,0,37,False,False,False,False,True,2667686,5511,2024-11-06
+Rabat,Agdal,Maison,Neuf,197,3,1,0,0,False,True,False,True,True,2736192,13889,2024-09-23
+Marrakech,Médina,Terrain,En construction,802,0,0,0,0,False,False,False,False,True,3224313,4020,2024-12-22
+Casablanca,Gauthier,Local commercial,En construction,53,0,0,0,0,False,True,False,False,False,544111,10266,2024-12-16
+Meknès,Plaisance,Villa,Neuf,381,2,2,0,0,False,False,False,True,True,4931459,12943,2024-10-20
+Oujda,Centre Ville,Maison,Bon état,259,2,2,0,49,False,True,False,True,True,1131146,4367,2024-11-24
+Meknès,Centre Ville,Local commercial,Bon état,415,0,0,0,30,False,False,False,False,True,2390279,5759,2024-09-25
+Tanger,Centre Ville,Riad,À rénover,258,1,1,0,38,False,True,True,True,True,1453457,5633,2025-02-26
+Tanger,Cap Spartel,Villa,À rénover,332,4,4,0,36,False,True,True,True,True,1584530,4772,2024-12-07
+Marrakech,Gueliz,Maison,En construction,84,3,3,0,0,False,True,True,True,True,1248380,14861,2024-10-12
+Fès,Ville Nouvelle,Maison,Bon état,286,1,1,0,47,False,True,False,True,True,1470716,5142,2025-02-15
+Casablanca,CIL,Villa,Neuf,414,3,3,0,0,False,False,True,True,True,7605208,18370,2024-12-22
+Oujda,Hay El Qods,Terrain,À rénover,788,0,0,0,45,False,True,False,False,True,907556,1151,2024-12-03
+Oujda,Angad,Local commercial,En construction,376,0,0,0,0,False,False,False,False,True,2898302,7708,2025-03-02
+Rabat,Hassan,Maison,Neuf,84,2,2,0,0,False,False,False,True,True,1021352,12158,2024-11-08
+Casablanca,Ain Diab,Riad,Bon état,173,2,2,0,22,False,True,False,True,False,2573456,14875,2024-10-06
+Oujda,Hay Essalam,Maison,Bon état,97,2,1,0,32,False,True,False,True,False,376163,3877,2024-11-14
+Meknès,Hamria,Terrain,Neuf,1426,0,0,0,0,False,True,False,False,False,10701508,7504,2025-01-05
+Oujda,Hay El Qods,Terrain,Bon état,1860,0,0,0,40,False,True,False,False,True,4583396,2464,2025-02-18
+Oujda,Centre Ville,Villa,Neuf,218,3,3,0,0,False,True,True,True,True,1754008,8045,2025-01-07
+Rabat,Hay Riad,Villa,Neuf,375,6,3,0,0,False,False,True,True,True,7599099,20264,2024-12-17
+Casablanca,Anfa,Appartement,Neuf,98,1,1,9,0,False,False,False,False,True,1967337,20074,2025-01-04
+Fès,Ville Nouvelle,Riad,À rénover,386,5,3,0,19,False,False,True,True,True,1790020,4637,2024-09-21
+Agadir,Centre,Villa,Neuf,234,2,2,0,0,False,True,False,True,True,4678067,19991,2025-02-15
+Rabat,Hassan,Terrain,Bon état,1086,0,0,0,6,False,True,False,False,True,7272074,6696,2024-12-11
+Marrakech,Amerchich,Villa,Bon état,420,6,3,0,45,False,True,False,True,True,3708553,8829,2024-10-22
+Marrakech,Médina,Local commercial,À rénover,311,0,0,0,8,False,True,False,False,False,1358455,4368,2024-09-15
+Oujda,Hay El Qods,Maison,À rénover,297,3,3,0,46,False,False,False,True,True,591183,1990,2024-10-11
+Tanger,Malabata,Villa,Neuf,160,5,3,0,0,True,False,True,True,True,2209565,13809,2024-09-08
+Marrakech,Palmeraie,Appartement,En construction,52,2,1,12,0,True,False,True,False,True,462169,8887,2025-02-21
+Casablanca,CIL,Riad,Neuf,324,2,2,0,0,True,True,True,False,True,6366000,19648,2024-10-10
+Fès,Route Immouzer,Terrain,Bon état,349,0,0,0,44,False,True,False,False,True,1110511,3181,2024-12-26
+Rabat,Les Orangers,Riad,Bon état,255,2,2,0,39,False,True,True,True,True,2914278,11428,2025-02-10
+Meknès,Marjane,Maison,À rénover,137,2,1,0,15,False,True,False,True,True,615757,4494,2024-10-04
+Agadir,Centre,Maison,Neuf,137,5,2,0,0,False,True,False,True,True,1066176,7782,2024-09-11
+Fès,Atlas,Maison,À rénover,147,5,3,0,8,False,True,False,True,False,578651,3936,2025-02-06
+Tanger,Cap Spartel,Local commercial,En construction,69,0,0,0,0,False,False,False,False,False,614717,8908,2024-12-08
+Rabat,Les Orangers,Villa,Bon état,458,1,1,0,30,False,True,True,True,True,4230405,9236,2024-11-07
+Casablanca,Bourgogne,Appartement,Neuf,101,5,4,12,0,True,True,False,False,True,1520139,15050,2024-11-29
+Casablanca,Anfa,Riad,À rénover,389,6,1,0,43,False,True,True,True,False,3137198,8064,2025-02-05
+Agadir,Talborjt,Appartement,Bon état,115,5,1,7,14,True,True,False,False,True,515623,4483,2025-01-24
+Oujda,Centre Ville,Appartement,En construction,173,4,4,6,0,False,True,False,True,False,881249,5093,2024-09-14
+Tanger,Boukhalef,Villa,En construction,453,2,2,0,0,False,True,True,True,True,5662268,12499,2025-01-03
+Tanger,Boukhalef,Villa,Neuf,201,4,4,0,0,False,False,True,True,True,2502619,12450,2024-12-08
+Fès,Atlas,Maison,À rénover,296,4,2,0,31,False,True,False,True,True,1340207,4527,2025-02-16
+Agadir,Sonaba,Local commercial,Neuf,76,0,0,0,0,False,True,False,False,False,661446,8703,2024-10-11
+Rabat,Hay Riad,Local commercial,En construction,347,0,0,0,0,False,True,False,False,True,5952645,17154,2025-01-09
+Oujda,Hay Essalam,Riad,En construction,376,1,1,0,0,False,False,False,True,False,2556002,6797,2025-01-28
+Agadir,Centre,Appartement,Bon état,46,1,1,1,44,False,True,True,False,True,143501,3119,2024-10-20
+Rabat,Souissi,Appartement,En construction,199,4,2,14,0,True,True,False,False,True,2520818,12667,2024-09-26
+Casablanca,Maarif,Local commercial,À rénover,152,0,0,0,30,False,False,False,False,False,1128836,7426,2024-09-29
+Rabat,Agdal,Local commercial,En construction,492,0,0,0,0,False,False,False,False,True,7118035,14467,2025-01-18
+Oujda,Centre Ville,Terrain,En construction,303,0,0,0,0,False,True,False,False,True,936463,3090,2025-01-30
+Agadir,Sonaba,Riad,En construction,356,3,1,0,0,False,False,True,True,True,2580659,7249,2024-10-18
+Meknès,Centre Ville,Local commercial,À rénover,497,0,0,0,34,False,False,False,False,False,2141153,4308,2024-09-11
+Marrakech,Médina,Villa,Bon état,163,5,3,0,11,False,True,True,True,True,844896,5183,2024-12-18
+Oujda,Angad,Terrain,Neuf,203,0,0,0,0,False,False,False,False,True,1551832,7644,2024-11-01
+Marrakech,Médina,Riad,À rénover,180,1,1,0,32,False,True,False,True,True,972887,5404,2024-11-01
+Oujda,Centre Ville,Terrain,À rénover,375,0,0,0,26,False,True,False,False,True,1095360,2920,2024-09-29
+Marrakech,Médina,Maison,Neuf,84,5,4,0,0,False,True,False,True,True,910264,10836,2024-09-08
+Oujda,Hay El Qods,Appartement,En construction,93,6,2,2,0,False,True,False,False,True,374517,4027,2025-03-04
+Casablanca,Ain Diab,Riad,Bon état,343,3,1,0,5,False,True,True,True,True,4821080,14055,2024-12-09
+Marrakech,Gueliz,Appartement,Bon état,97,1,1,8,27,True,True,False,False,True,431472,4448,2024-12-25
+Meknès,Hamria,Appartement,Neuf,191,5,1,0,0,True,False,False,False,True,1974144,10335,2024-10-17
+Fès,Atlas,Appartement,Bon état,79,5,4,4,10,True,True,True,False,False,428736,5427,2025-02-03
+Casablanca,Anfa,Riad,Bon état,383,1,1,0,35,False,True,True,True,False,4199153,10963,2025-02-24
+Oujda,Hay El Qods,Riad,À rénover,113,2,1,0,15,False,False,True,True,False,284449,2517,2024-09-23
+Meknès,Centre Ville,Riad,À rénover,299,3,2,0,15,False,True,True,True,True,1550337,5185,2024-11-16
+Tanger,Boukhalef,Maison,Bon état,199,2,2,0,6,True,False,False,True,False,1331655,6691,2025-01-07
+Tanger,Malabata,Maison,Neuf,103,1,1,0,0,False,True,False,True,True,1012348,9828,2025-02-28
+Tanger,Boukhalef,Appartement,En construction,50,3,1,12,0,True,True,False,False,True,373688,7473,2025-01-10
+Fès,Médina,Local commercial,À rénover,303,0,0,0,4,False,False,False,False,False,1638992,5409,2024-11-27
+Agadir,Talborjt,Riad,Bon état,183,3,3,0,4,False,False,True,True,True,1114602,6090,2024-10-28
+Rabat,Les Orangers,Appartement,À rénover,125,5,1,8,16,True,False,False,False,True,920196,7361,2024-12-22
+Oujda,Hay El Qods,Local commercial,En construction,124,0,0,0,0,False,True,False,False,False,618770,4990,2024-11-08
+Oujda,Angad,Riad,Neuf,249,3,2,0,0,False,True,True,True,True,2499919,10039,2024-11-16
+Marrakech,Amerchich,Maison,Bon état,85,2,1,0,32,False,True,False,True,True,529429,6228,2025-01-09
+Tanger,Centre Ville,Riad,Bon état,238,4,2,0,27,False,True,False,True,True,1477497,6207,2025-01-30
+Marrakech,Gueliz,Villa,En construction,210,6,2,0,0,True,True,True,True,True,1990801,9480,2024-12-11
+Casablanca,Gauthier,Riad,Bon état,240,2,1,0,32,False,True,False,True,True,3263717,13598,2025-01-11
+Fès,Route Immouzer,Terrain,Bon état,1246,0,0,0,15,False,True,False,False,True,6503294,5219,2024-12-03
+Oujda,Hay Essalam,Local commercial,Neuf,186,0,0,0,0,False,True,False,False,False,1470472,7905,2024-12-02
+Agadir,Centre,Villa,En construction,359,6,2,0,0,False,True,True,False,False,3290905,9166,2025-01-27
+Rabat,Hay Riad,Riad,En construction,211,2,2,0,0,False,True,True,True,True,3101904,14700,2025-02-24
+Marrakech,Palmeraie,Maison,À rénover,256,6,3,0,13,False,False,False,True,True,1544385,6032,2024-12-06
+Tanger,Cap Spartel,Villa,Neuf,228,2,2,0,0,False,True,True,True,True,2793925,12254,2024-11-18
+Tanger,Cap Spartel,Villa,À rénover,427,6,3,0,24,True,False,True,True,True,3086893,7229,2025-02-13
+Tanger,Cap Spartel,Riad,Bon état,325,2,2,0,15,False,True,False,True,True,3004045,9243,2024-09-13
+Marrakech,Gueliz,Appartement,En construction,183,1,1,10,0,False,False,True,False,True,1784532,9751,2024-09-10
