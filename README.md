@@ -1,4 +1,4 @@
-# Analyse des Prix Immobiliers au Maroc
+# Real Estate Price Analysis in Morocco
 
 ## Description
 This project aims to analyze the Moroccan real estate market using data science and machine learning techniques. It includes an interactive interface via Streamlit, allowing users to explore the data, visualize price trends, and predict property values.
