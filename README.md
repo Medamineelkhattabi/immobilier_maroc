@@ -21,8 +21,8 @@ This project aims to analyze the Moroccan real estate market using data science 
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/immobilier_analyser.git
-   cd immobilier_analyser
+   git clone https://github.com/Medamineelkhattabi/immobilier_maroc.git
+   cd immobilier_maroc
    ```
 
 2. **Create a virtual environment and activate it**
